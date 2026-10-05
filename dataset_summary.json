@@ -1,0 +1,37 @@
+{
+    "num_records": 1200,
+    "cities": [
+        "Faisalabad",
+        "Islamabad",
+        "Karachi",
+        "Lahore",
+        "Rawalpindi"
+    ],
+    "area_marla_min": 3,
+    "area_marla_max": 20,
+    "area_marla_default": 7,
+    "area_sqft_min": 625,
+    "area_sqft_max": 4549,
+    "bedrooms_min": 1,
+    "bedrooms_max": 9,
+    "bedrooms_default": 3,
+    "bathrooms_min": 1,
+    "bathrooms_max": 9,
+    "bathrooms_default": 2,
+    "stories_options": [
+        1.0,
+        1.5,
+        2.0,
+        2.5
+    ],
+    "age_years_min": 0,
+    "age_years_max": 34,
+    "age_years_default": 17,
+    "school_km_min": 0.0,
+    "school_km_max": 10.96,
+    "school_km_default": 1.05,
+    "price_lakh_min": 31.5,
+    "price_lakh_max": 677.9,
+    "price_lakh_mean": 168.92,
+    "avg_sqft_per_marla": 224.8
+}

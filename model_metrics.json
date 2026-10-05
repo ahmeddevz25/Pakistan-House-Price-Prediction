@@ -1,0 +1,18 @@
+{
+    "Linear Regression": {
+        "train_mae": 18.81,
+        "train_rmse": 26.71,
+        "train_r2": 0.9343,
+        "test_mae": 20.51,
+        "test_rmse": 30.33,
+        "test_r2": 0.9242
+    },
+    "Random Forest Regressor": {
+        "train_mae": 7.84,
+        "train_rmse": 12.22,
+        "train_r2": 0.9862,
+        "test_mae": 18.1,
+        "test_rmse": 29.55,
+        "test_r2": 0.928
+    }
+}

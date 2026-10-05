@@ -1,0 +1,1201 @@
+property_id,city,location,area_marla,area_sqft,bedrooms,bathrooms,stories,age_years,main_road_access,garage,gas_available,furnished,nearby_school_km,price_lakh_pkr
+PROP-00001,Karachi,Bahria Town,5,1146,1,1,1,18,1,0,1,0,0.23,115.4
+PROP-00002,Faisalabad,Model Town,5,1095,1,1,2,24,1,0,1,0,0.52,60.3
+PROP-00003,Karachi,Gulshan-e-Iqbal,5,1138,1,1,2.5,6,0,0,1,1,5.06,102.4
+PROP-00004,Islamabad,DHA,3,632,2,2,2.5,3,1,0,1,1,0.31,118.9
+PROP-00005,Rawalpindi,DHA,5,1174,2,2,2.5,7,1,1,1,1,2.79,152.5
+PROP-00006,Faisalabad,Jaranwala Road,7,1565,2,2,1,24,1,1,1,1,0.01,79
+PROP-00007,Islamabad,Bahria Town,10,2204,4,4,2,27,1,1,1,0,0.1,310.9
+PROP-00008,Islamabad,Bahria Town,7,1623,2,2,2,0,0,1,1,1,0.06,238.2
+PROP-00009,Lahore,Johar Town,3,687,2,2,1.5,31,0,1,1,0,1.16,49.9
+PROP-00010,Islamabad,DHA,12,2694,5,5,1,27,0,1,1,1,1.16,364.6
+PROP-00011,Faisalabad,Wapda Town,5,1101,2,2,2,2,1,0,1,0,0.38,76.8
+PROP-00012,Karachi,DHA,5,1136,1,1,2.5,1,0,1,1,1,0.47,159.3
+PROP-00013,Karachi,Bahria Town,5,1075,3,2,1,25,0,1,1,0,2.15,96.5
+PROP-00014,Islamabad,Bahria Town,10,2215,3,3,1.5,5,1,1,1,1,0.37,401.8
+PROP-00015,Rawalpindi,Askari,7,1576,2,2,1.5,17,1,1,1,0,0.35,119.5
+PROP-00016,Lahore,DHA,7,1526,2,1,2.5,4,1,1,1,1,0.64,237.9
+PROP-00017,Faisalabad,Wapda Town,7,1599,2,1,2,19,1,1,1,0,5.46,89
+PROP-00018,Karachi,Bahria Town,5,1107,1,1,1.5,19,1,1,1,0,0.55,105.4
+PROP-00019,Karachi,Bahria Town,7,1532,4,4,2,29,1,1,1,0,0.39,175
+PROP-00020,Lahore,Johar Town,12,2742,5,5,2.5,23,1,0,1,0,5.89,228.7
+PROP-00021,Karachi,DHA,5,1092,1,1,2.5,2,0,1,1,0,6.92,153.2
+PROP-00022,Rawalpindi,Bahria Town,3,672,2,2,1,25,1,1,1,0,1.07,54.4
+PROP-00023,Rawalpindi,Bahria Town,3,640,1,1,2.5,14,0,1,1,0,0.05,52.9
+PROP-00024,Islamabad,F-sectors,3,694,2,1,2,32,0,1,1,1,0.92,85.9
+PROP-00025,Lahore,Gulberg,7,1576,2,1,2,29,1,0,1,0,2.04,152.2
+PROP-00026,Lahore,Bahria Town,5,1108,2,1,2,0,1,1,1,0,1.42,132.4
+PROP-00027,Lahore,Gulberg,10,2256,3,2,1,29,1,1,1,0,0.15,179.2
+PROP-00028,Karachi,Clifton,7,1593,3,2,1.5,18,1,1,1,0,0.27,193.9
+PROP-00029,Islamabad,F-sectors,12,2681,6,5,2,34,1,1,1,0,4.26,326.3
+PROP-00030,Lahore,Model Town,10,2289,4,3,1,6,1,0,1,1,3.15,209.9
+PROP-00031,Rawalpindi,Bahria Town,7,1597,4,4,2,17,1,0,1,0,1.24,147.3
+PROP-00032,Lahore,DHA,7,1608,2,1,1,18,0,1,1,0,0.14,171.5
+PROP-00033,Faisalabad,Jaranwala Road,7,1540,2,2,1,24,0,1,1,0,2.28,63.6
+PROP-00034,Islamabad,DHA,10,2257,3,3,2,12,1,0,1,0,0.24,382.5
+PROP-00035,Lahore,Model Town,5,1091,3,3,2.5,3,1,1,1,1,0.71,123
+PROP-00036,Karachi,Bahria Town,3,716,1,1,2,7,1,0,1,1,1.31,77.4
+PROP-00037,Karachi,DHA,3,657,1,1,2.5,31,1,1,0,1,3.88,78.6
+PROP-00038,Lahore,DHA,5,1089,3,3,2,2,0,1,1,1,4.51,132.1
+PROP-00039,Karachi,North Nazimabad,5,1166,2,1,1.5,27,1,0,1,0,1.8,88.5
+PROP-00040,Islamabad,E-sectors,3,659,1,1,2.5,4,1,1,1,0,3.02,101.5
+PROP-00041,Lahore,DHA,10,2217,5,5,1.5,25,1,1,1,0,2.73,206.9
+PROP-00042,Lahore,Johar Town,10,2294,3,2,2.5,22,1,1,1,0,0.43,197.4
+PROP-00043,Lahore,Gulberg,5,1078,2,2,2,31,0,0,0,0,1.03,82.8
+PROP-00044,Rawalpindi,Askari,7,1618,4,4,2,22,1,1,1,0,0.36,133.7
+PROP-00045,Lahore,Bahria Town,7,1554,4,4,1,33,1,0,1,0,0.76,115.2
+PROP-00046,Karachi,Clifton,7,1590,2,1,2,10,0,0,1,0,0.25,188.9
+PROP-00047,Islamabad,DHA,5,1141,3,3,2,18,1,1,1,0,0.05,144.9
+PROP-00048,Faisalabad,Wapda Town,7,1569,4,4,1,21,1,0,1,0,0.09,87.2
+PROP-00049,Rawalpindi,Bahria Town,7,1576,4,4,1.5,21,1,0,1,0,1.91,135.1
+PROP-00050,Rawalpindi,Askari,3,662,2,2,1,24,0,1,1,0,2.76,47
+PROP-00051,Karachi,DHA,12,2733,4,3,1.5,17,1,0,1,0,2.05,295.7
+PROP-00052,Karachi,Clifton,7,1583,4,4,1.5,32,0,0,1,1,1,151.6
+PROP-00053,Lahore,DHA,3,655,1,1,2.5,5,1,1,1,0,2.55,91.2
+PROP-00054,Faisalabad,Susan Road,7,1575,2,1,1,25,1,0,1,0,0.42,63.9
+PROP-00055,Islamabad,E-sectors,7,1624,2,2,2,5,0,0,0,0,6.9,192
+PROP-00056,Islamabad,F-sectors,3,639,1,1,2,30,1,1,1,1,0.2,98.1
+PROP-00057,Faisalabad,Jaranwala Road,5,1075,2,1,2,7,1,1,1,0,2.62,61.3
+PROP-00058,Faisalabad,Wapda Town,12,2738,5,4,1.5,13,1,1,1,0,0.87,150.9
+PROP-00059,Karachi,Clifton,7,1575,4,4,1.5,2,1,1,1,0,2.37,234.7
+PROP-00060,Rawalpindi,Bahria Town,5,1101,3,3,1,21,1,1,1,0,0.16,95.4
+PROP-00061,Karachi,Bahria Town,3,680,2,2,2,28,1,0,1,0,1.54,57.3
+PROP-00062,Karachi,Gulshan-e-Iqbal,20,4487,8,7,1.5,25,0,1,1,0,1.06,357
+PROP-00063,Lahore,Johar Town,7,1624,2,1,1,27,0,1,0,1,0.17,117.7
+PROP-00064,Lahore,DHA,5,1128,3,3,2,20,1,1,1,0,2.33,121.4
+PROP-00065,Lahore,Johar Town,7,1599,3,2,1.5,26,1,1,1,0,0.9,131.5
+PROP-00066,Karachi,DHA,5,1137,3,2,1,20,1,1,1,1,1.22,123.5
+PROP-00067,Karachi,DHA,5,1170,1,1,2,18,1,0,1,1,0.71,123.3
+PROP-00068,Islamabad,G-sectors,7,1616,2,1,1.5,3,1,0,1,0,0.7,232.1
+PROP-00069,Islamabad,DHA,10,2254,4,4,2,0,0,1,1,0,1.06,385.9
+PROP-00070,Faisalabad,Jaranwala Road,5,1108,3,2,2.5,31,1,1,1,0,1.65,41.9
+PROP-00071,Karachi,Clifton,3,631,1,1,2,18,1,1,1,0,2.55,79.7
+PROP-00072,Islamabad,DHA,10,2236,4,3,2,33,0,1,1,0,2.27,239.3
+PROP-00073,Islamabad,Bahria Town,12,2745,4,3,1,13,1,1,1,0,0.37,346.8
+PROP-00074,Faisalabad,Model Town,5,1149,2,1,2,33,1,1,1,0,0.35,57.6
+PROP-00075,Lahore,DHA,5,1165,2,1,2,6,1,1,1,0,2.21,146.4
+PROP-00076,Lahore,Model Town,7,1550,2,2,2,10,1,1,1,0,1.25,154.7
+PROP-00077,Islamabad,E-sectors,7,1560,4,3,1,16,1,1,1,0,2.21,211.1
+PROP-00078,Karachi,Gulshan-e-Iqbal,7,1549,4,4,2,29,0,0,1,1,2.47,118.2
+PROP-00079,Rawalpindi,Bahria Town,5,1121,2,1,2.5,7,1,1,1,1,1.52,124.4
+PROP-00080,Islamabad,F-sectors,12,2696,5,4,2.5,22,1,1,1,1,0.19,435
+PROP-00081,Lahore,Bahria Town,5,1167,2,2,2.5,34,1,0,0,0,1.36,88.9
+PROP-00082,Islamabad,DHA,7,1528,2,1,1.5,17,1,1,1,0,0.81,254.3
+PROP-00083,Faisalabad,Susan Road,12,2662,5,4,2.5,28,1,1,1,1,1.48,120.2
+PROP-00084,Islamabad,F-sectors,3,638,1,1,1,24,1,0,0,0,0.17,71.5
+PROP-00085,Lahore,Gulberg,12,2710,4,4,2,23,1,1,1,0,7.09,253.9
+PROP-00086,Islamabad,E-sectors,3,722,1,1,1,2,1,1,1,0,0.37,106.3
+PROP-00087,Islamabad,F-sectors,5,1109,2,1,2,23,1,1,1,0,2.07,128.9
+PROP-00088,Lahore,Model Town,12,2674,5,4,1,14,1,1,0,0,0.79,225
+PROP-00089,Lahore,Model Town,3,642,1,1,1,12,1,1,0,0,3.22,60.2
+PROP-00090,Islamabad,Bahria Town,12,2682,5,4,2,27,1,1,1,0,2.72,355.9
+PROP-00091,Islamabad,Bahria Town,10,2206,3,3,2.5,30,0,1,1,0,2.04,266.4
+PROP-00092,Karachi,Clifton,5,1120,3,3,2,30,0,1,1,0,0.21,120.9
+PROP-00093,Lahore,DHA,20,4512,9,8,2,21,1,1,0,1,0.54,532
+PROP-00094,Karachi,Clifton,3,706,1,1,2.5,28,1,1,1,0,0.73,75.3
+PROP-00095,Rawalpindi,Satellite Town,5,1161,2,1,1,28,0,1,1,1,1.12,75.9
+PROP-00096,Rawalpindi,Askari,10,2226,5,5,2.5,27,1,1,1,1,5.01,172.4
+PROP-00097,Karachi,Gulshan-e-Iqbal,5,1112,3,2,1,24,1,1,1,0,1.18,92
+PROP-00098,Karachi,Gulshan-e-Iqbal,10,2243,3,2,2.5,2,1,0,0,0,1.37,206.1
+PROP-00099,Lahore,DHA,5,1134,3,2,2,1,1,1,1,0,0.02,147.2
+PROP-00100,Islamabad,Bahria Town,10,2232,4,4,1,21,0,1,1,0,1.27,220.6
+PROP-00101,Karachi,North Nazimabad,10,2273,4,3,1,32,1,0,0,0,0.12,153.8
+PROP-00102,Islamabad,G-sectors,10,2243,3,2,2,2,1,1,1,0,1.42,314.9
+PROP-00103,Faisalabad,Model Town,7,1608,3,3,2,6,1,1,1,0,2.3,116.1
+PROP-00104,Islamabad,DHA,5,1119,3,2,1.5,7,1,1,0,0,0.26,172.1
+PROP-00105,Islamabad,E-sectors,20,4508,9,8,1,34,1,0,1,0,2.75,467.9
+PROP-00106,Rawalpindi,Chaklala,5,1094,2,2,2,33,1,1,1,0,0.82,70.9
+PROP-00107,Islamabad,E-sectors,5,1092,1,1,1,25,1,1,1,1,0.41,152.2
+PROP-00108,Karachi,North Nazimabad,5,1088,3,3,2,5,1,1,1,0,2.93,105.8
+PROP-00109,Islamabad,DHA,3,669,2,2,1,9,0,0,1,1,0.62,88.3
+PROP-00110,Islamabad,F-sectors,5,1158,1,1,2,11,1,1,1,1,1.32,178.7
+PROP-00111,Lahore,Model Town,3,702,1,1,2,19,1,0,1,0,0.3,60
+PROP-00112,Islamabad,DHA,20,4537,9,9,1,24,1,1,1,0,1.09,568.8
+PROP-00113,Islamabad,DHA,3,669,1,1,2,7,0,1,1,1,0.88,115.1
+PROP-00114,Rawalpindi,DHA,5,1104,2,1,2,7,1,1,1,1,2.38,120.2
+PROP-00115,Islamabad,E-sectors,10,2289,4,3,1,5,1,0,1,0,2.09,299.4
+PROP-00116,Islamabad,DHA,10,2269,4,3,2.5,22,1,1,1,0,1.18,324.7
+PROP-00117,Karachi,North Nazimabad,7,1539,2,2,1.5,24,1,1,1,0,0.02,132
+PROP-00118,Rawalpindi,Bahria Town,5,1100,2,1,2.5,28,1,0,1,0,1.3,83
+PROP-00119,Islamabad,G-sectors,10,2242,3,3,1,15,1,1,1,0,3.93,278.7
+PROP-00120,Lahore,Model Town,7,1576,3,3,2.5,27,1,1,1,0,1.89,140.4
+PROP-00121,Karachi,DHA,7,1531,4,3,1,12,0,0,1,1,0.31,172
+PROP-00122,Rawalpindi,Askari,3,671,2,2,2,20,0,1,1,0,1.42,49.8
+PROP-00123,Rawalpindi,Bahria Town,5,1111,2,1,2,9,1,1,1,0,0.83,114.2
+PROP-00124,Karachi,Bahria Town,3,672,1,1,1,6,0,1,1,0,1.35,71.7
+PROP-00125,Faisalabad,Susan Road,7,1542,4,3,1.5,10,0,1,1,0,1.93,75.3
+PROP-00126,Lahore,DHA,7,1597,2,2,1.5,3,1,1,1,0,0.11,201.3
+PROP-00127,Lahore,Bahria Town,10,2243,3,2,1.5,5,1,0,1,0,8.1,253.7
+PROP-00128,Lahore,Model Town,5,1105,3,3,1,29,1,1,1,1,1.64,82.5
+PROP-00129,Faisalabad,Gulberg,3,629,1,1,2,19,0,1,1,1,0.2,46.3
+PROP-00130,Lahore,DHA,5,1140,1,1,1.5,8,1,1,1,1,4.28,153.1
+PROP-00131,Lahore,Gulberg,7,1584,2,1,1,17,1,1,1,0,1.92,158.6
+PROP-00132,Karachi,Gulshan-e-Iqbal,5,1076,3,2,2.5,17,1,1,1,1,2.97,108.2
+PROP-00133,Karachi,Bahria Town,5,1173,1,1,1,33,0,0,1,0,4.95,86.6
+PROP-00134,Karachi,North Nazimabad,5,1134,3,2,1,1,0,1,0,0,2.28,99.5
+PROP-00135,Lahore,Gulberg,10,2230,5,5,1.5,8,0,0,1,0,0.16,217.3
+PROP-00136,Faisalabad,Wapda Town,5,1126,1,1,2,34,1,1,1,1,1.98,57.8
+PROP-00137,Lahore,Bahria Town,3,645,1,1,1,9,0,1,1,1,0.59,67.5
+PROP-00138,Lahore,Johar Town,5,1134,3,3,1.5,25,1,0,1,1,1.58,99.5
+PROP-00139,Islamabad,E-sectors,7,1545,3,3,1,16,1,1,1,0,0.12,211.6
+PROP-00140,Rawalpindi,Askari,7,1558,4,3,2,14,1,1,1,1,0.17,146.9
+PROP-00141,Karachi,Bahria Town,3,711,2,2,1,23,0,0,1,0,0.74,55.9
+PROP-00142,Karachi,Clifton,3,720,1,1,2,24,1,1,0,0,0.44,68.7
+PROP-00143,Lahore,DHA,7,1586,4,3,1.5,11,0,1,1,0,3.79,157.4
+PROP-00144,Lahore,DHA,12,2704,4,4,1.5,13,1,1,1,0,0.41,328.7
+PROP-00145,Lahore,DHA,7,1623,3,2,1.5,11,0,1,1,1,0.93,199.2
+PROP-00146,Islamabad,Bahria Town,5,1096,3,3,2.5,28,0,1,1,1,0.14,151.5
+PROP-00147,Karachi,North Nazimabad,10,2242,3,3,2,2,1,0,1,0,3.1,201.3
+PROP-00148,Karachi,DHA,10,2202,3,2,1,31,1,1,1,1,2.03,249.8
+PROP-00149,Islamabad,G-sectors,5,1087,1,1,2,25,1,1,0,1,2.08,154
+PROP-00150,Rawalpindi,Satellite Town,20,4453,9,9,2,9,1,1,1,0,0.8,384.7
+PROP-00151,Lahore,Johar Town,5,1119,1,1,2.5,28,0,1,1,0,1.24,99.3
+PROP-00152,Rawalpindi,Askari,10,2248,5,4,1,23,1,0,1,0,2.33,168.8
+PROP-00153,Karachi,North Nazimabad,3,679,1,1,1.5,27,1,1,1,0,1.54,56.9
+PROP-00154,Lahore,Johar Town,5,1083,2,1,1,9,0,0,0,0,2.67,94
+PROP-00155,Karachi,Bahria Town,10,2218,4,4,1.5,4,0,1,1,0,0.92,256.3
+PROP-00156,Karachi,DHA,3,665,1,1,2,30,1,1,0,0,0.5,79.7
+PROP-00157,Lahore,Gulberg,5,1088,2,1,1.5,30,1,1,0,0,1,96.9
+PROP-00158,Karachi,Clifton,10,2274,5,4,2.5,25,0,1,1,0,5.97,222.1
+PROP-00159,Islamabad,G-sectors,5,1123,3,3,2.5,11,0,0,1,0,0.38,145.9
+PROP-00160,Karachi,Bahria Town,5,1102,2,2,1,21,1,1,1,0,2.82,123.2
+PROP-00161,Lahore,DHA,10,2297,5,5,2,11,1,0,1,0,0.92,252.3
+PROP-00162,Lahore,Johar Town,7,1592,3,2,2,20,0,1,1,0,4.4,133.1
+PROP-00163,Rawalpindi,Bahria Town,3,649,1,1,2.5,32,1,1,1,0,0.9,53.8
+PROP-00164,Lahore,Johar Town,7,1548,2,1,1,7,1,1,1,0,1.14,143.2
+PROP-00165,Islamabad,DHA,5,1154,3,3,2.5,32,0,1,1,1,1.98,157.8
+PROP-00166,Faisalabad,Susan Road,12,2661,6,5,1.5,0,1,1,1,0,1.51,149.5
+PROP-00167,Faisalabad,Susan Road,5,1101,1,1,1,3,1,1,0,0,1.97,61.1
+PROP-00168,Karachi,Gulshan-e-Iqbal,10,2210,4,4,2,8,1,1,1,0,0.61,232.5
+PROP-00169,Islamabad,G-sectors,3,709,2,1,2.5,17,1,1,1,1,0.65,101.7
+PROP-00170,Islamabad,DHA,10,2233,4,4,2,27,0,1,1,0,7.19,274.4
+PROP-00171,Lahore,Gulberg,10,2224,5,4,1.5,20,1,0,1,1,4.18,227
+PROP-00172,Islamabad,G-sectors,10,2205,5,5,2,26,1,1,1,0,0.72,288.7
+PROP-00173,Karachi,Gulshan-e-Iqbal,5,1099,2,1,2.5,21,0,1,1,1,2.1,94.5
+PROP-00174,Rawalpindi,Askari,7,1538,3,3,2,16,0,0,1,0,0.54,126.1
+PROP-00175,Karachi,Gulshan-e-Iqbal,10,2240,5,4,2.5,1,1,1,1,0,0.31,260.5
+PROP-00176,Lahore,Gulberg,5,1124,1,1,2,19,1,0,1,0,1.12,102.8
+PROP-00177,Rawalpindi,DHA,12,2714,4,4,1.5,11,1,1,1,0,0.63,304.4
+PROP-00178,Islamabad,DHA,3,646,1,1,2,1,1,0,1,0,0.47,110.3
+PROP-00179,Faisalabad,Model Town,5,1086,2,1,2.5,18,1,0,1,0,0.99,58.9
+PROP-00180,Lahore,Model Town,7,1573,3,3,1,19,1,0,1,0,1.27,137.3
+PROP-00181,Karachi,DHA,5,1111,1,1,2,20,1,0,1,1,1.02,129.6
+PROP-00182,Karachi,North Nazimabad,12,2710,4,4,2,32,1,1,1,0,0,185
+PROP-00183,Lahore,Model Town,10,2248,5,4,2,1,1,1,1,0,0.15,258.6
+PROP-00184,Karachi,Gulshan-e-Iqbal,5,1113,2,2,2,9,1,1,0,1,1.52,117.1
+PROP-00185,Islamabad,DHA,5,1144,3,3,2.5,2,0,1,0,0,0.82,212.6
+PROP-00186,Lahore,Model Town,10,2294,3,3,2,27,1,1,1,0,0.12,185.5
+PROP-00187,Rawalpindi,Askari,5,1106,3,3,2.5,14,0,1,1,0,0.02,91.6
+PROP-00188,Karachi,Clifton,5,1111,3,2,1,0,0,0,0,0,1.56,131.1
+PROP-00189,Karachi,Gulshan-e-Iqbal,5,1123,1,1,2,7,0,1,1,0,0.91,105.6
+PROP-00190,Lahore,Gulberg,7,1569,3,3,1,26,0,0,1,0,0.92,114.5
+PROP-00191,Faisalabad,Gulberg,5,1109,3,2,2,8,0,1,1,0,0.74,78.2
+PROP-00192,Lahore,DHA,7,1610,2,2,2,2,0,0,1,0,0.09,159.5
+PROP-00193,Lahore,Johar Town,10,2267,5,5,2,23,0,1,1,1,0.35,185.1
+PROP-00194,Karachi,Clifton,7,1609,2,2,2,18,1,0,1,0,0.65,203.9
+PROP-00195,Lahore,Gulberg,7,1529,2,1,1,11,1,1,1,1,0.15,151.7
+PROP-00196,Karachi,Gulshan-e-Iqbal,5,1162,3,3,2,16,1,1,1,1,2.64,110.5
+PROP-00197,Islamabad,E-sectors,7,1597,2,2,2,32,0,1,1,0,0.89,183.3
+PROP-00198,Lahore,Model Town,3,691,1,1,1,20,1,1,1,1,0.35,63.6
+PROP-00199,Lahore,Gulberg,5,1100,1,1,1,6,1,0,1,0,0.11,117.8
+PROP-00200,Islamabad,F-sectors,10,2277,4,4,1,34,1,1,1,0,1.79,263.2
+PROP-00201,Lahore,Bahria Town,3,658,1,1,2,1,1,0,1,0,0.4,84.3
+PROP-00202,Karachi,Bahria Town,10,2216,3,2,2.5,20,1,0,1,1,0.31,255.3
+PROP-00203,Rawalpindi,DHA,7,1596,3,2,2,13,0,1,1,0,0.51,143.2
+PROP-00204,Lahore,Bahria Town,3,722,2,2,1,14,0,0,1,0,1.88,68.7
+PROP-00205,Faisalabad,Model Town,7,1530,2,1,2,28,1,1,1,1,1.25,97
+PROP-00206,Faisalabad,Susan Road,12,2705,6,6,1,22,1,1,1,0,1.83,126.6
+PROP-00207,Lahore,Model Town,12,2682,6,6,2,24,0,0,1,0,1.55,212.4
+PROP-00208,Karachi,DHA,7,1542,3,3,1.5,6,1,1,1,0,2.85,201.7
+PROP-00209,Islamabad,Bahria Town,10,2285,3,2,2,33,1,1,1,1,2,285.7
+PROP-00210,Karachi,DHA,12,2748,4,4,2,9,0,1,1,1,0.42,345.3
+PROP-00211,Rawalpindi,Bahria Town,3,634,2,2,2,16,0,1,1,0,3.15,61.8
+PROP-00212,Karachi,DHA,7,1582,4,3,1,29,0,1,1,0,0.61,145.8
+PROP-00213,Islamabad,DHA,7,1536,4,4,2,6,1,1,1,0,2.66,241.6
+PROP-00214,Lahore,Gulberg,10,2228,4,3,1.5,14,1,0,1,0,6.94,201.7
+PROP-00215,Karachi,North Nazimabad,7,1539,3,3,1,25,0,0,1,0,2.28,109
+PROP-00216,Islamabad,DHA,7,1589,2,2,2.5,23,1,1,0,0,1.76,216.6
+PROP-00217,Faisalabad,Jaranwala Road,7,1599,3,3,2.5,26,1,1,1,0,4.92,62.5
+PROP-00218,Karachi,Gulshan-e-Iqbal,5,1167,1,1,2,16,1,1,1,1,0.42,115.2
+PROP-00219,Lahore,Gulberg,7,1580,4,3,2,11,1,0,1,0,0.11,168.8
+PROP-00220,Rawalpindi,Chaklala,12,2743,6,5,2,16,1,0,1,0,1.04,185.3
+PROP-00221,Lahore,Model Town,5,1102,2,2,2,23,0,1,1,0,2.48,86.8
+PROP-00222,Faisalabad,Gulberg,3,633,1,1,2.5,33,0,1,1,0,0.7,32.7
+PROP-00223,Rawalpindi,Satellite Town,3,715,1,1,2,28,1,1,1,0,0.41,41
+PROP-00224,Lahore,Bahria Town,20,4471,8,7,1,28,1,1,1,0,0.84,414.4
+PROP-00225,Rawalpindi,Chaklala,5,1121,3,3,2,4,1,1,1,0,1.03,82
+PROP-00226,Karachi,North Nazimabad,7,1615,3,3,2.5,0,1,1,1,0,0.61,169.3
+PROP-00227,Rawalpindi,DHA,10,2233,3,3,2,22,1,1,1,0,1.14,209.7
+PROP-00228,Islamabad,E-sectors,5,1077,3,2,2,27,1,0,1,1,0.81,139.7
+PROP-00229,Islamabad,E-sectors,10,2226,5,4,1,15,1,1,1,0,1.62,340.5
+PROP-00230,Lahore,DHA,5,1170,2,1,1,3,1,1,1,1,1.23,154.6
+PROP-00231,Islamabad,Bahria Town,5,1162,2,1,1,5,1,1,1,0,2.97,156.6
+PROP-00232,Karachi,North Nazimabad,20,4452,7,7,2,0,1,0,1,1,0.73,486.7
+PROP-00233,Lahore,Gulberg,10,2277,4,4,2.5,3,1,1,1,0,1.15,233.3
+PROP-00234,Karachi,Bahria Town,20,4511,9,9,1.5,9,1,1,1,1,0.57,544.7
+PROP-00235,Karachi,Gulshan-e-Iqbal,12,2732,6,5,1,7,1,0,1,0,0.55,223.4
+PROP-00236,Islamabad,E-sectors,3,683,1,1,1,18,0,1,1,1,0.72,95.1
+PROP-00237,Rawalpindi,Satellite Town,10,2292,3,2,1,9,0,1,1,0,5.67,158.2
+PROP-00238,Karachi,Clifton,10,2240,3,3,2,6,0,0,1,0,0.47,280.5
+PROP-00239,Islamabad,G-sectors,7,1563,4,4,2.5,19,0,0,1,0,1.47,200.6
+PROP-00240,Islamabad,F-sectors,7,1583,3,3,1,18,0,0,1,1,2,216.2
+PROP-00241,Lahore,Johar Town,10,2224,3,2,2,3,1,1,1,1,0.37,280.7
+PROP-00242,Lahore,DHA,7,1551,3,2,1,20,1,1,1,1,0.85,191.1
+PROP-00243,Lahore,Johar Town,7,1565,3,2,2,22,1,0,0,0,0.66,121.1
+PROP-00244,Lahore,DHA,10,2281,4,3,1.5,17,1,1,1,0,1.18,222
+PROP-00245,Islamabad,F-sectors,5,1165,2,1,1,16,1,1,1,0,0.47,161.5
+PROP-00246,Rawalpindi,Chaklala,5,1132,3,3,2,14,1,0,1,0,0.88,82.6
+PROP-00247,Karachi,Bahria Town,7,1612,4,4,2,13,1,0,1,0,0.18,187.2
+PROP-00248,Rawalpindi,Satellite Town,3,693,1,1,2.5,26,1,1,1,1,0.65,54.7
+PROP-00249,Rawalpindi,Chaklala,5,1123,2,1,2.5,32,1,0,0,0,2.65,70.8
+PROP-00250,Faisalabad,Jaranwala Road,12,2716,5,5,1,8,1,0,1,0,1.78,128.6
+PROP-00251,Lahore,DHA,10,2284,4,4,2,17,1,0,1,1,0.8,288.8
+PROP-00252,Lahore,Bahria Town,7,1602,4,4,1,18,1,0,1,0,6.43,164.3
+PROP-00253,Rawalpindi,Bahria Town,7,1598,4,3,1,33,1,1,1,0,1.14,108.8
+PROP-00254,Karachi,Clifton,7,1537,2,1,2.5,6,1,1,1,1,1.42,245.3
+PROP-00255,Islamabad,Bahria Town,7,1556,3,2,2.5,27,1,1,1,0,3.11,194.2
+PROP-00256,Karachi,Bahria Town,5,1140,1,1,1.5,10,1,0,1,0,3.48,116.5
+PROP-00257,Lahore,Johar Town,5,1110,3,2,2,17,1,1,1,0,8.81,93.1
+PROP-00258,Karachi,Gulshan-e-Iqbal,10,2203,5,4,2,30,0,1,1,0,1.63,161.2
+PROP-00259,Lahore,Johar Town,3,703,1,1,2,31,0,1,1,1,1.45,52.4
+PROP-00260,Faisalabad,Gulberg,5,1090,3,3,2,25,1,1,1,0,0.26,67.6
+PROP-00261,Islamabad,Bahria Town,5,1133,2,1,2.5,9,0,1,0,0,1.79,159.3
+PROP-00262,Rawalpindi,Bahria Town,5,1112,3,2,1,29,0,0,1,0,0.37,82.6
+PROP-00263,Lahore,Model Town,10,2203,5,5,1,19,1,1,1,0,0.37,189.6
+PROP-00264,Faisalabad,Gulberg,7,1570,3,2,1.5,28,1,1,0,1,2.07,84.3
+PROP-00265,Islamabad,Bahria Town,20,4492,7,7,2,9,1,0,1,0,0.54,631.3
+PROP-00266,Lahore,Johar Town,10,2234,4,3,1,23,1,1,0,0,2.72,193.9
+PROP-00267,Islamabad,E-sectors,12,2659,6,6,1,28,1,1,1,0,0.74,338.7
+PROP-00268,Faisalabad,Jaranwala Road,7,1583,2,2,1.5,3,1,1,1,1,1.05,91.1
+PROP-00269,Rawalpindi,Satellite Town,10,2281,5,5,1,4,1,0,1,0,0.11,182.8
+PROP-00270,Karachi,North Nazimabad,3,671,1,1,2.5,19,0,1,1,0,0.91,57.7
+PROP-00271,Islamabad,Bahria Town,7,1614,3,3,1,1,1,1,1,0,0.66,239.7
+PROP-00272,Lahore,Johar Town,12,2665,5,4,2,15,1,1,1,0,2.01,245.8
+PROP-00273,Rawalpindi,Satellite Town,5,1111,2,2,2,7,1,1,1,0,0.64,103.5
+PROP-00274,Faisalabad,Gulberg,3,635,1,1,1.5,33,0,1,1,0,0.12,32.5
+PROP-00275,Karachi,Bahria Town,10,2239,5,4,1,7,0,0,1,0,0.68,247.1
+PROP-00276,Lahore,Bahria Town,7,1548,4,3,1,22,1,0,1,0,2.59,158.9
+PROP-00277,Karachi,DHA,5,1163,2,2,2.5,16,1,1,1,1,2.75,146.6
+PROP-00278,Lahore,Bahria Town,7,1597,4,3,1.5,18,0,1,1,0,0.2,161.5
+PROP-00279,Karachi,Bahria Town,12,2655,6,6,2,25,1,1,1,1,4.04,278.3
+PROP-00280,Rawalpindi,Chaklala,5,1102,3,3,1.5,15,1,0,1,0,1.27,73.7
+PROP-00281,Karachi,Gulshan-e-Iqbal,12,2708,4,4,2,4,1,0,1,1,0.37,271.6
+PROP-00282,Lahore,Bahria Town,10,2219,3,3,1,32,0,1,1,1,0.41,185
+PROP-00283,Faisalabad,Susan Road,5,1133,1,1,1,27,0,1,1,0,0.84,50.3
+PROP-00284,Lahore,Model Town,10,2254,3,2,1,14,1,1,1,0,0.08,202
+PROP-00285,Karachi,North Nazimabad,12,2650,6,6,1.5,8,1,0,1,0,3.7,236.8
+PROP-00286,Islamabad,G-sectors,5,1085,3,3,2,32,1,0,1,0,3.97,123.4
+PROP-00287,Lahore,Model Town,10,2253,3,3,1,10,1,0,1,0,0.06,228.9
+PROP-00288,Lahore,Johar Town,10,2236,5,4,2,25,1,1,1,0,1.7,207.4
+PROP-00289,Karachi,North Nazimabad,20,4507,9,8,1,27,1,0,1,0,4.11,330.3
+PROP-00290,Lahore,DHA,5,1130,3,2,1.5,24,0,1,0,1,0.09,114.7
+PROP-00291,Islamabad,G-sectors,5,1098,1,1,2,15,1,1,1,1,0.43,160
+PROP-00292,Rawalpindi,Askari,5,1129,1,1,1,29,1,1,1,0,2.59,83.2
+PROP-00293,Karachi,North Nazimabad,5,1089,2,1,1,14,0,1,1,1,1.19,104.4
+PROP-00294,Islamabad,G-sectors,3,723,1,1,2,2,1,1,1,0,0.13,97.3
+PROP-00295,Rawalpindi,DHA,7,1579,2,1,1,28,1,0,1,0,1.8,122.9
+PROP-00296,Rawalpindi,Chaklala,7,1587,2,2,2,29,1,0,1,0,0.64,98.6
+PROP-00297,Lahore,Johar Town,7,1546,2,2,2,20,0,1,1,0,2.37,131.1
+PROP-00298,Lahore,DHA,5,1119,2,2,1,7,1,1,1,0,0.92,130.5
+PROP-00299,Faisalabad,Gulberg,12,2698,6,6,2,4,0,0,1,0,1.45,168.1
+PROP-00300,Karachi,Gulshan-e-Iqbal,3,659,1,1,1.5,34,1,1,1,0,1.42,48.7
+PROP-00301,Lahore,DHA,5,1110,1,1,2,13,0,0,1,0,1.22,120.5
+PROP-00302,Islamabad,Bahria Town,5,1098,3,3,1,1,1,1,1,0,1.51,152.5
+PROP-00303,Karachi,Clifton,5,1143,1,1,1.5,33,0,1,1,1,1.17,101.6
+PROP-00304,Faisalabad,Model Town,10,2239,4,3,1,9,1,1,0,0,0.48,125.5
+PROP-00305,Faisalabad,Jaranwala Road,5,1155,1,1,1.5,21,1,1,1,0,0.72,56.8
+PROP-00306,Faisalabad,Jaranwala Road,10,2296,4,4,1.5,8,1,0,1,0,0.55,108.5
+PROP-00307,Karachi,North Nazimabad,3,649,1,1,2,29,0,0,1,0,1.38,45.2
+PROP-00308,Rawalpindi,Askari,3,706,1,1,1,17,1,1,1,0,2.28,50.9
+PROP-00309,Lahore,Bahria Town,7,1601,4,3,2,26,0,1,1,0,0.7,142.8
+PROP-00310,Rawalpindi,Bahria Town,5,1155,1,1,2.5,15,0,0,1,0,0.51,90.8
+PROP-00311,Karachi,Bahria Town,12,2686,4,4,1.5,18,0,0,1,0,3.63,237.6
+PROP-00312,Karachi,Clifton,3,724,1,1,1.5,33,1,0,1,1,3.26,77.5
+PROP-00313,Karachi,Gulshan-e-Iqbal,5,1144,3,3,2,8,0,1,0,0,1.6,103
+PROP-00314,Lahore,Bahria Town,10,2234,3,3,2.5,18,1,1,1,0,0.89,194.4
+PROP-00315,Islamabad,E-sectors,5,1162,1,1,2,3,1,1,1,0,0.96,184.1
+PROP-00316,Rawalpindi,DHA,7,1528,4,3,1,10,1,1,1,0,1.35,145.5
+PROP-00317,Islamabad,DHA,3,708,1,1,2,9,0,1,1,0,2.06,108.2
+PROP-00318,Lahore,DHA,20,4481,8,8,2.5,8,0,1,0,0,0.45,537.9
+PROP-00319,Islamabad,F-sectors,10,2235,4,4,2,13,1,1,1,0,0.27,359.1
+PROP-00320,Rawalpindi,DHA,12,2725,5,4,2.5,21,1,1,1,0,2.36,221.7
+PROP-00321,Islamabad,G-sectors,7,1547,2,2,1,4,1,1,1,1,0.02,261.9
+PROP-00322,Karachi,North Nazimabad,12,2703,6,5,2,26,1,1,1,0,0.19,200.7
+PROP-00323,Islamabad,F-sectors,7,1578,3,3,2,12,1,1,1,0,0.13,265.8
+PROP-00324,Karachi,DHA,5,1075,3,2,1,23,0,1,0,0,3.33,96.6
+PROP-00325,Karachi,Bahria Town,5,1155,2,2,2.5,7,0,0,1,0,0.21,135.7
+PROP-00326,Rawalpindi,Askari,5,1093,2,2,2,12,1,1,1,1,1.02,112.6
+PROP-00327,Lahore,Johar Town,7,1614,4,3,1,12,0,1,0,0,0.17,118.3
+PROP-00328,Islamabad,Bahria Town,12,2747,6,6,2,27,1,1,1,0,1.97,344.3
+PROP-00329,Islamabad,E-sectors,20,4461,8,7,2,23,1,1,1,1,0.54,664.8
+PROP-00330,Islamabad,G-sectors,5,1128,1,1,2,27,1,1,1,0,0.94,138
+PROP-00331,Lahore,Gulberg,10,2216,5,4,1,28,1,1,1,0,0,188.1
+PROP-00332,Karachi,DHA,12,2671,4,3,1,9,1,1,1,0,0.77,391.4
+PROP-00333,Lahore,Model Town,10,2203,3,2,1,25,0,0,1,0,0.16,154.7
+PROP-00334,Karachi,Gulshan-e-Iqbal,7,1602,2,1,1,28,0,0,1,0,1.36,102.2
+PROP-00335,Faisalabad,Model Town,7,1528,3,2,1.5,1,1,1,1,1,0.49,118.6
+PROP-00336,Islamabad,E-sectors,3,666,1,1,2,29,1,0,0,0,2.53,62.6
+PROP-00337,Lahore,Bahria Town,7,1568,3,2,2,17,0,1,1,1,0.07,172.8
+PROP-00338,Karachi,Bahria Town,3,690,2,1,1.5,20,1,1,1,0,1.39,77.9
+PROP-00339,Islamabad,F-sectors,3,646,1,1,2,31,1,1,1,0,1.47,87.6
+PROP-00340,Lahore,Gulberg,3,662,1,1,1.5,7,0,0,1,0,0.01,62.8
+PROP-00341,Karachi,Bahria Town,20,4458,8,8,1,6,0,0,1,0,1.17,452.1
+PROP-00342,Lahore,Johar Town,20,4509,8,7,2,22,1,1,1,0,0.23,426.5
+PROP-00343,Karachi,Clifton,10,2262,3,2,2,26,1,1,1,0,1.3,262.7
+PROP-00344,Faisalabad,Gulberg,5,1099,2,1,2,1,0,1,1,0,2.28,81.4
+PROP-00345,Islamabad,Bahria Town,10,2252,4,3,2.5,23,1,1,1,1,0.3,354.7
+PROP-00346,Karachi,Gulshan-e-Iqbal,5,1102,3,2,2.5,25,1,1,1,0,1.69,92.5
+PROP-00347,Islamabad,DHA,10,2259,3,2,1,21,1,1,1,0,0.35,310.4
+PROP-00348,Karachi,Bahria Town,7,1611,4,4,2,22,0,0,0,0,2.64,163
+PROP-00349,Karachi,North Nazimabad,10,2290,3,3,2,30,1,0,1,0,0.87,155.5
+PROP-00350,Karachi,DHA,7,1562,3,3,1.5,1,0,1,1,0,0.14,209.8
+PROP-00351,Karachi,Bahria Town,3,659,1,1,1,33,1,1,1,1,0.84,66.8
+PROP-00352,Lahore,Bahria Town,5,1129,2,1,1.5,5,0,1,1,1,0.29,138.1
+PROP-00353,Rawalpindi,Bahria Town,5,1134,1,1,2,3,1,1,1,0,4.05,130.4
+PROP-00354,Islamabad,G-sectors,10,2203,4,4,2,30,1,0,1,0,0.09,227.4
+PROP-00355,Lahore,Model Town,3,637,1,1,1.5,8,1,1,1,1,0.35,74.5
+PROP-00356,Karachi,Gulshan-e-Iqbal,12,2744,4,4,2.5,16,1,0,1,1,1.5,266.6
+PROP-00357,Karachi,Gulshan-e-Iqbal,5,1158,1,1,1.5,18,1,1,1,1,2.62,114.9
+PROP-00358,Lahore,Gulberg,20,4456,8,8,2,15,0,1,1,1,0.57,443.4
+PROP-00359,Rawalpindi,Chaklala,12,2676,5,4,1,5,1,1,1,0,0.6,206.9
+PROP-00360,Lahore,Bahria Town,3,699,1,1,1,25,1,0,1,1,4.31,72.6
+PROP-00361,Karachi,Gulshan-e-Iqbal,10,2200,3,3,1,3,1,1,1,1,2.95,235.2
+PROP-00362,Lahore,Gulberg,10,2232,4,4,2,16,1,1,1,0,1.85,230.2
+PROP-00363,Rawalpindi,Chaklala,12,2744,4,3,2,22,1,1,1,0,0.11,180.4
+PROP-00364,Islamabad,E-sectors,5,1162,1,1,2.5,12,1,1,1,0,0.63,174.8
+PROP-00365,Karachi,Bahria Town,3,688,1,1,1,7,1,1,1,0,3.05,64.3
+PROP-00366,Rawalpindi,Chaklala,10,2242,3,2,1,1,1,1,1,1,0.56,177.1
+PROP-00367,Lahore,Gulberg,3,697,1,1,1,8,1,1,1,1,2.59,78.3
+PROP-00368,Islamabad,F-sectors,10,2203,3,2,1,31,0,1,1,0,3.75,250.5
+PROP-00369,Lahore,Bahria Town,5,1130,1,1,1,12,1,1,1,1,3.15,125
+PROP-00370,Karachi,North Nazimabad,20,4467,8,8,2,21,1,1,1,0,2.98,375.1
+PROP-00371,Karachi,DHA,3,700,1,1,1,5,1,0,0,0,0.55,82.5
+PROP-00372,Karachi,Gulshan-e-Iqbal,5,1167,2,2,2.5,28,1,1,1,1,0.62,93.8
+PROP-00373,Faisalabad,Wapda Town,10,2255,4,4,2,18,0,0,1,1,0.07,144.1
+PROP-00374,Lahore,Gulberg,12,2689,5,4,1,9,0,1,1,0,5.93,248.7
+PROP-00375,Karachi,Clifton,5,1142,2,1,1.5,31,0,1,1,1,1.05,127.1
+PROP-00376,Lahore,Model Town,5,1157,2,1,1.5,22,0,1,1,1,5.24,101.3
+PROP-00377,Islamabad,Bahria Town,12,2710,5,5,2,15,1,1,1,0,0.63,374.5
+PROP-00378,Faisalabad,Susan Road,10,2230,4,4,1,0,1,1,1,1,1.45,132.9
+PROP-00379,Islamabad,E-sectors,5,1155,1,1,2.5,11,1,1,1,0,2.61,183.2
+PROP-00380,Lahore,Johar Town,7,1537,4,4,2,21,1,0,1,0,1.94,132.1
+PROP-00381,Lahore,DHA,3,664,1,1,2,23,0,1,1,0,0.2,70.9
+PROP-00382,Faisalabad,Model Town,7,1542,3,2,1.5,17,1,0,1,0,0.01,100
+PROP-00383,Islamabad,Bahria Town,3,701,2,2,1.5,18,1,0,1,0,0.46,84.5
+PROP-00384,Faisalabad,Susan Road,7,1557,2,1,1.5,25,1,1,1,1,1.46,80.6
+PROP-00385,Rawalpindi,Chaklala,10,2200,3,3,1.5,15,1,1,1,0,1.45,146.2
+PROP-00386,Lahore,DHA,10,2244,5,5,2.5,25,1,1,1,0,3.42,253.7
+PROP-00387,Islamabad,G-sectors,10,2220,4,3,2.5,14,1,0,1,1,2.01,318.1
+PROP-00388,Islamabad,DHA,5,1157,2,1,2,5,0,1,1,0,2.77,181
+PROP-00389,Karachi,Gulshan-e-Iqbal,5,1101,1,1,1,6,0,1,1,1,0.27,126.3
+PROP-00390,Lahore,DHA,7,1596,2,2,2,7,1,1,1,0,0.46,209.7
+PROP-00391,Lahore,Bahria Town,3,641,1,1,1.5,0,1,1,1,0,0.72,82.5
+PROP-00392,Islamabad,E-sectors,10,2262,3,3,1,1,1,1,1,1,0.33,372.7
+PROP-00393,Lahore,Model Town,5,1088,2,1,1,20,0,0,1,0,0.74,90.5
+PROP-00394,Rawalpindi,Askari,12,2711,5,4,2,23,1,0,1,0,0.3,210.8
+PROP-00395,Karachi,DHA,5,1130,1,1,2,26,1,0,1,0,5.96,111.8
+PROP-00396,Karachi,Bahria Town,10,2270,3,3,1,32,1,1,1,0,0.64,227.8
+PROP-00397,Karachi,Bahria Town,12,2702,5,5,2,10,1,1,1,0,0.5,335.8
+PROP-00398,Karachi,Clifton,10,2253,3,2,2.5,7,1,0,1,0,0.1,326.4
+PROP-00399,Lahore,Gulberg,3,700,1,1,2,17,1,1,0,1,1.72,66.3
+PROP-00400,Islamabad,DHA,10,2214,3,3,2,9,0,1,1,0,2.8,337.7
+PROP-00401,Islamabad,DHA,10,2214,3,2,1.5,10,1,1,1,0,0.9,383.8
+PROP-00402,Lahore,Gulberg,5,1135,3,2,2,30,0,0,1,1,2.54,93
+PROP-00403,Lahore,Johar Town,5,1128,3,3,2.5,33,1,1,1,1,0.68,91.9
+PROP-00404,Islamabad,E-sectors,12,2723,6,6,1,14,1,0,1,1,0.54,345
+PROP-00405,Islamabad,DHA,20,4525,8,7,2,8,0,1,1,0,0.37,660
+PROP-00406,Islamabad,E-sectors,5,1102,2,1,1,4,1,0,1,1,0.19,189
+PROP-00407,Rawalpindi,DHA,10,2289,3,2,2,21,0,0,1,1,0.44,207.8
+PROP-00408,Karachi,Gulshan-e-Iqbal,7,1579,2,1,1.5,12,1,1,1,1,0.73,156.5
+PROP-00409,Islamabad,G-sectors,12,2698,6,6,1.5,30,0,1,1,1,0.1,290.6
+PROP-00410,Karachi,Bahria Town,12,2679,4,3,1,19,1,1,1,0,0.27,253.4
+PROP-00411,Faisalabad,Gulberg,3,720,1,1,1,4,0,1,1,0,1.83,48
+PROP-00412,Lahore,DHA,10,2256,4,4,1.5,18,0,1,1,0,3.36,239.7
+PROP-00413,Karachi,Clifton,5,1169,2,2,2.5,26,1,1,1,0,1.07,136.6
+PROP-00414,Karachi,Bahria Town,10,2296,3,3,1,20,1,1,1,0,0.66,217.4
+PROP-00415,Lahore,Johar Town,3,709,2,1,2.5,12,1,0,1,0,4.16,70.7
+PROP-00416,Faisalabad,Wapda Town,3,671,1,1,2,18,1,1,1,0,1.16,44
+PROP-00417,Karachi,Bahria Town,3,649,1,1,1.5,23,0,0,1,0,0.53,58.4
+PROP-00418,Rawalpindi,Satellite Town,5,1155,1,1,1,8,1,1,1,0,1.29,89.5
+PROP-00419,Rawalpindi,Bahria Town,5,1075,2,2,1,31,1,1,1,0,5.12,87.6
+PROP-00420,Islamabad,G-sectors,5,1092,2,2,1.5,8,1,0,1,0,0.43,154.1
+PROP-00421,Faisalabad,Jaranwala Road,5,1102,2,2,1,30,1,0,0,0,0.08,38.6
+PROP-00422,Karachi,Bahria Town,10,2241,4,3,2.5,17,1,1,1,0,2.31,236.6
+PROP-00423,Lahore,Gulberg,7,1558,3,2,2,33,0,1,1,0,0.93,138.3
+PROP-00424,Karachi,North Nazimabad,3,712,1,1,1,4,0,1,1,1,0.23,56.6
+PROP-00425,Rawalpindi,Satellite Town,10,2239,4,4,1,24,1,1,1,0,0.67,147.2
+PROP-00426,Islamabad,F-sectors,10,2265,5,5,2,2,1,0,1,1,1.77,372.4
+PROP-00427,Lahore,Model Town,7,1537,3,3,1.5,15,0,1,1,1,1.1,146.4
+PROP-00428,Islamabad,Bahria Town,3,699,1,1,1,5,1,0,1,0,0.45,86.8
+PROP-00429,Lahore,DHA,7,1594,2,2,1,5,1,0,1,0,0.87,205.9
+PROP-00430,Lahore,Bahria Town,7,1542,3,2,1,29,0,1,1,1,0.85,141.8
+PROP-00431,Lahore,Gulberg,7,1526,3,3,1.5,4,1,1,1,0,1.48,168.4
+PROP-00432,Lahore,Model Town,12,2747,4,4,1.5,30,1,1,1,0,0.28,211.6
+PROP-00433,Karachi,Bahria Town,12,2746,5,4,1,32,1,1,1,1,0.1,294.3
+PROP-00434,Lahore,Johar Town,20,4474,9,8,2,1,1,1,1,0,0.09,531.2
+PROP-00435,Karachi,Bahria Town,12,2725,5,5,1,5,1,1,1,1,2.55,313.5
+PROP-00436,Lahore,Model Town,3,640,1,1,2,30,1,1,1,1,3.05,62.5
+PROP-00437,Karachi,Gulshan-e-Iqbal,3,713,2,1,1,6,0,0,1,1,2.58,52.9
+PROP-00438,Karachi,Clifton,10,2279,3,2,1.5,6,1,1,0,0,0.08,285.8
+PROP-00439,Rawalpindi,Bahria Town,7,1615,2,1,1.5,27,1,1,1,0,0.35,135.6
+PROP-00440,Faisalabad,Model Town,7,1549,3,3,2,5,0,1,1,0,2.48,99.6
+PROP-00441,Karachi,North Nazimabad,7,1605,4,4,1,29,1,0,1,0,0.37,112.4
+PROP-00442,Lahore,Bahria Town,10,2227,5,5,1,14,1,0,1,0,2.11,212.5
+PROP-00443,Karachi,Gulshan-e-Iqbal,5,1149,2,1,1,22,1,1,1,0,3.16,84.3
+PROP-00444,Karachi,Bahria Town,12,2677,4,4,1.5,34,0,0,1,0,0.17,230.8
+PROP-00445,Rawalpindi,Satellite Town,3,677,1,1,1.5,17,1,1,1,0,1.49,49.2
+PROP-00446,Faisalabad,Susan Road,10,2277,3,3,1,13,1,1,1,1,0.42,118.5
+PROP-00447,Lahore,Gulberg,12,2731,4,4,1,11,1,0,1,0,4.24,263.1
+PROP-00448,Lahore,Johar Town,12,2711,4,4,2,13,1,0,1,0,1.71,257
+PROP-00449,Karachi,DHA,10,2279,5,4,2.5,17,0,1,0,0,2.46,280
+PROP-00450,Lahore,Johar Town,10,2204,4,4,2.5,8,1,0,1,1,0.36,224.7
+PROP-00451,Lahore,Model Town,3,650,1,1,1.5,3,0,1,1,0,2.58,64.2
+PROP-00452,Faisalabad,Model Town,5,1143,2,1,2,24,1,1,1,0,1.31,59.2
+PROP-00453,Lahore,DHA,10,2252,4,4,1.5,11,1,1,1,0,0.81,264.2
+PROP-00454,Lahore,Model Town,5,1082,2,2,2.5,19,1,1,1,0,0.03,110.1
+PROP-00455,Faisalabad,Model Town,5,1157,2,1,2,32,1,1,1,0,2.52,55.1
+PROP-00456,Islamabad,E-sectors,7,1529,3,3,2.5,32,0,1,1,1,0.09,183.6
+PROP-00457,Islamabad,F-sectors,7,1589,2,1,1,5,1,1,1,0,1.32,238.9
+PROP-00458,Lahore,Bahria Town,7,1623,3,2,2.5,6,1,0,1,0,0.3,165.2
+PROP-00459,Lahore,Johar Town,5,1087,2,2,2.5,34,0,1,1,0,1.65,77.9
+PROP-00460,Faisalabad,Jaranwala Road,20,4516,9,9,2,4,0,1,1,0,0.16,231.5
+PROP-00461,Lahore,Gulberg,7,1535,4,3,1,34,0,1,1,0,3.89,119.1
+PROP-00462,Karachi,Clifton,10,2225,3,3,2,24,0,0,1,0,3.44,220.6
+PROP-00463,Lahore,DHA,5,1144,3,2,1,27,1,1,0,1,4.13,109.1
+PROP-00464,Rawalpindi,Chaklala,5,1085,1,1,2,1,1,1,1,1,0.03,103.7
+PROP-00465,Lahore,DHA,3,651,2,1,2,20,1,0,1,1,1.88,72.9
+PROP-00466,Rawalpindi,DHA,7,1591,2,2,1,12,1,0,0,1,1.55,156.9
+PROP-00467,Islamabad,E-sectors,3,678,2,1,2.5,30,1,0,1,0,1.1,77.3
+PROP-00468,Karachi,Clifton,12,2695,5,4,1,8,0,0,1,1,4.86,338.9
+PROP-00469,Islamabad,F-sectors,7,1610,2,1,2.5,17,1,1,1,0,0.84,251.9
+PROP-00470,Lahore,DHA,3,645,1,1,2,16,1,1,1,0,2.39,82.7
+PROP-00471,Rawalpindi,Bahria Town,10,2217,3,3,2.5,16,1,1,1,0,1.13,214.9
+PROP-00472,Lahore,DHA,3,640,2,1,1,11,1,0,1,0,0.49,74.1
+PROP-00473,Karachi,Gulshan-e-Iqbal,10,2265,3,2,2,2,0,1,1,1,4.36,211.1
+PROP-00474,Rawalpindi,DHA,12,2695,6,5,1.5,30,0,0,1,0,0.4,237.7
+PROP-00475,Lahore,Gulberg,5,1106,2,1,1,25,1,1,0,0,1.96,96.3
+PROP-00476,Karachi,Gulshan-e-Iqbal,10,2299,4,4,1,14,1,0,1,0,1.16,192.5
+PROP-00477,Lahore,Johar Town,5,1124,2,2,2,10,1,1,1,1,0.19,124.9
+PROP-00478,Lahore,Johar Town,10,2224,3,2,2,18,1,1,1,1,0.02,209.2
+PROP-00479,Faisalabad,Jaranwala Road,7,1533,2,2,2,20,0,0,1,1,0.08,85.9
+PROP-00480,Islamabad,DHA,7,1590,3,3,2,16,0,1,1,0,0.41,245.7
+PROP-00481,Karachi,Gulshan-e-Iqbal,3,648,1,1,2.5,14,0,1,1,0,2.77,60.9
+PROP-00482,Karachi,Clifton,7,1559,2,1,1,17,1,0,1,0,3.29,172.4
+PROP-00483,Lahore,Johar Town,10,2248,4,3,2,25,1,0,1,0,0.32,189.8
+PROP-00484,Lahore,Johar Town,3,649,2,1,2.5,2,1,1,1,0,0.26,69.7
+PROP-00485,Karachi,Bahria Town,5,1108,2,2,2,17,0,0,0,0,0.14,106.9
+PROP-00486,Karachi,Clifton,5,1093,3,2,2,13,0,0,1,1,0.26,147
+PROP-00487,Rawalpindi,DHA,3,630,2,2,1.5,28,1,1,1,1,0.9,69
+PROP-00488,Rawalpindi,Chaklala,7,1551,2,2,1.5,31,1,1,1,0,0.9,106.2
+PROP-00489,Karachi,Bahria Town,20,4474,9,8,2,23,0,1,1,0,0.03,454.8
+PROP-00490,Karachi,North Nazimabad,5,1170,3,2,2,32,1,1,1,1,0.49,84.1
+PROP-00491,Islamabad,E-sectors,5,1143,2,1,2,12,1,1,0,1,0.32,161.1
+PROP-00492,Lahore,DHA,20,4511,8,7,2,25,0,0,1,1,2.16,376.7
+PROP-00493,Islamabad,Bahria Town,7,1555,3,3,2,15,1,1,1,1,0.47,247.6
+PROP-00494,Karachi,Clifton,7,1622,2,2,2,24,0,1,1,0,0.91,167.3
+PROP-00495,Karachi,DHA,10,2211,3,3,1,31,0,1,0,1,2.03,228.2
+PROP-00496,Lahore,Gulberg,12,2720,5,4,2,21,1,0,1,1,1.77,314.8
+PROP-00497,Lahore,Gulberg,5,1097,2,2,2,28,1,1,1,0,1.11,91.4
+PROP-00498,Rawalpindi,Askari,5,1091,3,3,1.5,11,1,1,1,1,0.47,98.6
+PROP-00499,Lahore,Bahria Town,5,1128,1,1,2,15,0,1,1,1,1.92,121
+PROP-00500,Rawalpindi,Satellite Town,10,2222,3,2,1,15,1,1,1,0,1.6,175.2
+PROP-00501,Lahore,Bahria Town,20,4482,9,9,2,33,0,0,0,0,1.04,354.9
+PROP-00502,Lahore,Johar Town,5,1118,2,2,2.5,34,0,1,1,1,0.11,88.9
+PROP-00503,Rawalpindi,DHA,5,1144,3,3,2,33,1,1,1,1,2.08,90.4
+PROP-00504,Karachi,Clifton,7,1567,4,3,2,11,1,0,1,0,0.74,220.9
+PROP-00505,Faisalabad,Wapda Town,3,705,1,1,2,6,0,1,0,1,2.47,41.7
+PROP-00506,Rawalpindi,Askari,3,699,2,2,1,12,0,1,1,0,2,51.8
+PROP-00507,Karachi,Bahria Town,5,1151,1,1,2,18,1,0,1,0,0.4,111
+PROP-00508,Faisalabad,Susan Road,10,2228,5,5,2,3,1,0,1,0,0.47,119.4
+PROP-00509,Lahore,DHA,7,1542,3,2,2,0,1,1,0,1,2.15,210.5
+PROP-00510,Rawalpindi,Chaklala,12,2666,5,5,1,21,1,0,1,0,1.23,166.1
+PROP-00511,Karachi,North Nazimabad,7,1580,2,2,2.5,15,1,0,1,0,1.05,109.9
+PROP-00512,Karachi,Bahria Town,3,714,1,1,1.5,13,1,0,1,0,2.07,72.9
+PROP-00513,Lahore,Johar Town,10,2242,3,2,2,22,1,1,1,0,0.19,212
+PROP-00514,Karachi,Gulshan-e-Iqbal,10,2236,4,4,1,21,1,1,1,0,0.34,194
+PROP-00515,Karachi,Gulshan-e-Iqbal,7,1584,3,2,1,10,1,0,1,0,2.55,138.5
+PROP-00516,Islamabad,E-sectors,3,684,1,1,1,30,0,1,1,1,0.46,74.4
+PROP-00517,Lahore,DHA,12,2720,6,5,1.5,23,1,1,1,0,0.24,301.3
+PROP-00518,Karachi,Gulshan-e-Iqbal,5,1094,1,1,1.5,3,1,0,1,0,0.21,123.7
+PROP-00519,Rawalpindi,Chaklala,3,684,2,2,2.5,23,1,1,0,1,0.45,58.3
+PROP-00520,Karachi,Clifton,5,1117,3,2,2,13,0,1,1,1,0.99,164
+PROP-00521,Karachi,Bahria Town,10,2201,3,2,1,6,1,1,1,1,2.56,319.4
+PROP-00522,Faisalabad,Jaranwala Road,7,1546,3,2,1,8,1,0,1,0,0.95,78
+PROP-00523,Faisalabad,Susan Road,10,2280,4,3,1.5,32,1,1,0,0,0.02,98.5
+PROP-00524,Islamabad,E-sectors,3,712,1,1,1,18,1,1,1,1,2.01,87.9
+PROP-00525,Karachi,Gulshan-e-Iqbal,5,1096,1,1,1,22,0,1,1,0,3.7,86.5
+PROP-00526,Islamabad,E-sectors,5,1115,2,2,2,14,0,0,1,0,2.47,133.7
+PROP-00527,Islamabad,Bahria Town,5,1116,1,1,1.5,9,1,0,1,0,1.05,163.3
+PROP-00528,Faisalabad,Jaranwala Road,12,2682,5,5,2,19,1,1,1,1,0.5,141.8
+PROP-00529,Karachi,Gulshan-e-Iqbal,3,722,1,1,1,31,1,1,1,0,2.02,47
+PROP-00530,Rawalpindi,Bahria Town,10,2247,3,2,1,3,1,1,1,1,2.49,214.2
+PROP-00531,Faisalabad,Model Town,20,4519,8,7,1,31,1,0,1,0,4.02,221.1
+PROP-00532,Faisalabad,Model Town,5,1112,3,3,1,19,1,1,1,0,2.05,63.2
+PROP-00533,Karachi,Clifton,5,1135,1,1,1,25,1,1,1,0,1.38,141.1
+PROP-00534,Faisalabad,Susan Road,7,1550,3,3,2.5,25,0,0,1,0,0.57,68.4
+PROP-00535,Lahore,Model Town,7,1601,4,4,1.5,33,1,1,1,1,0.32,139.7
+PROP-00536,Lahore,Johar Town,7,1534,4,4,2.5,11,0,1,1,1,0.93,148.9
+PROP-00537,Faisalabad,Model Town,7,1555,3,2,1,17,0,1,1,0,0.06,89.1
+PROP-00538,Rawalpindi,Chaklala,3,720,2,1,1,10,1,1,1,1,0.16,50.4
+PROP-00539,Rawalpindi,Satellite Town,5,1158,3,3,2,3,1,1,1,0,0.58,89.1
+PROP-00540,Faisalabad,Gulberg,3,652,1,1,1.5,21,1,0,1,0,0.01,40.1
+PROP-00541,Karachi,Bahria Town,10,2246,4,4,1.5,7,1,0,1,0,1.54,240.2
+PROP-00542,Karachi,DHA,20,4525,9,8,1,22,1,1,1,0,0.95,449.4
+PROP-00543,Islamabad,F-sectors,7,1599,2,2,1.5,23,0,0,1,1,4.1,186.5
+PROP-00544,Karachi,DHA,10,2247,3,2,2,0,0,0,1,0,1.3,296.7
+PROP-00545,Faisalabad,Wapda Town,10,2264,5,5,1,4,1,1,1,0,1.14,137.7
+PROP-00546,Lahore,Bahria Town,5,1100,2,2,2,20,1,0,0,0,3.37,101
+PROP-00547,Rawalpindi,DHA,20,4458,7,6,1.5,14,1,0,1,0,0.25,448.7
+PROP-00548,Islamabad,DHA,12,2711,5,4,1.5,19,1,0,1,1,0.03,357.4
+PROP-00549,Lahore,Gulberg,10,2248,4,4,1,7,1,1,1,0,0.48,239.5
+PROP-00550,Karachi,Clifton,12,2665,6,5,1,15,0,1,1,0,0.05,333.2
+PROP-00551,Lahore,Gulberg,7,1596,4,3,2.5,28,1,0,1,1,1.22,163.4
+PROP-00552,Karachi,North Nazimabad,5,1093,1,1,2,21,0,0,0,0,3.85,75.4
+PROP-00553,Lahore,Johar Town,5,1167,2,2,1,5,0,0,1,0,1.43,100.8
+PROP-00554,Karachi,Bahria Town,12,2692,6,6,2,11,0,1,1,1,1.27,309.8
+PROP-00555,Lahore,Johar Town,10,2250,4,3,1.5,15,1,0,1,1,2.09,229.4
+PROP-00556,Rawalpindi,DHA,12,2658,6,6,2,2,1,1,1,0,0.07,363.4
+PROP-00557,Islamabad,E-sectors,3,656,2,2,1,20,0,1,1,0,1.1,84.9
+PROP-00558,Islamabad,G-sectors,12,2700,4,3,1,5,0,1,1,0,2.55,304.9
+PROP-00559,Rawalpindi,DHA,3,650,1,1,2,17,1,0,1,1,0.79,64.8
+PROP-00560,Faisalabad,Model Town,5,1123,2,1,2.5,26,1,1,1,0,2.51,66.2
+PROP-00561,Lahore,Gulberg,7,1562,3,3,1.5,25,0,1,1,0,0.52,150.5
+PROP-00562,Karachi,Clifton,5,1122,1,1,2.5,26,1,1,1,1,3.65,136.4
+PROP-00563,Lahore,Gulberg,7,1614,3,2,2.5,8,1,1,1,0,1.24,169
+PROP-00564,Faisalabad,Jaranwala Road,7,1527,3,3,1,24,1,1,1,0,0.19,73.2
+PROP-00565,Karachi,Gulshan-e-Iqbal,7,1603,3,3,2,28,1,1,1,0,1.48,124.9
+PROP-00566,Rawalpindi,Chaklala,5,1105,2,2,1,13,1,1,1,0,0.2,86
+PROP-00567,Lahore,Bahria Town,12,2679,4,3,2,0,1,1,0,0,0.23,328.3
+PROP-00568,Karachi,DHA,12,2714,4,3,1,24,1,0,1,0,3.39,245.5
+PROP-00569,Karachi,Clifton,7,1580,2,1,1,16,0,1,1,0,1.88,163.3
+PROP-00570,Karachi,DHA,5,1094,2,1,2.5,15,1,1,1,0,0.42,141.3
+PROP-00571,Karachi,Bahria Town,5,1125,3,2,1,30,1,0,1,1,2.97,89.8
+PROP-00572,Lahore,Johar Town,5,1163,3,3,2.5,16,0,1,1,1,0.95,109.5
+PROP-00573,Faisalabad,Gulberg,7,1559,2,1,1,18,1,1,1,1,3.12,117.6
+PROP-00574,Rawalpindi,Bahria Town,10,2284,3,3,2,15,1,1,1,0,0.16,178.6
+PROP-00575,Lahore,Gulberg,5,1087,3,3,1,21,1,1,1,0,0.59,120.1
+PROP-00576,Lahore,Johar Town,10,2279,5,5,2.5,5,1,1,1,0,0.24,224.6
+PROP-00577,Karachi,Gulshan-e-Iqbal,5,1110,3,2,1.5,16,1,0,1,0,1.09,103.5
+PROP-00578,Karachi,DHA,3,634,2,2,1,27,1,1,1,0,0.16,74.1
+PROP-00579,Islamabad,G-sectors,5,1138,1,1,1,0,0,1,1,0,0.49,147.1
+PROP-00580,Lahore,Gulberg,20,4497,9,9,2,22,1,0,1,0,3.35,415.3
+PROP-00581,Islamabad,Bahria Town,12,2709,6,6,2.5,18,1,1,1,1,0.06,443.3
+PROP-00582,Rawalpindi,Satellite Town,7,1557,2,2,1.5,30,1,1,1,0,1.03,103
+PROP-00583,Lahore,Model Town,5,1126,2,2,1.5,22,0,1,1,1,2.52,98.1
+PROP-00584,Lahore,Johar Town,12,2705,4,4,2,27,1,1,1,0,5.34,231.4
+PROP-00585,Rawalpindi,DHA,12,2653,6,5,2.5,32,1,1,1,0,0.03,257.8
+PROP-00586,Karachi,North Nazimabad,10,2272,5,4,1.5,8,1,1,1,1,2.34,227.6
+PROP-00587,Lahore,DHA,7,1595,4,4,1,21,1,1,1,0,2.33,146.7
+PROP-00588,Lahore,Bahria Town,10,2219,4,4,1,5,0,1,1,0,1.39,210.8
+PROP-00589,Islamabad,DHA,12,2730,6,6,1.5,32,0,1,1,0,2.59,281.6
+PROP-00590,Karachi,Bahria Town,12,2737,4,3,2,33,1,1,1,0,2.06,278.8
+PROP-00591,Lahore,Gulberg,12,2692,6,5,2,18,0,1,1,0,1.15,281.9
+PROP-00592,Karachi,DHA,5,1115,3,3,2,17,1,1,1,0,0.7,132.6
+PROP-00593,Islamabad,Bahria Town,5,1169,1,1,1.5,15,1,1,1,0,1.38,149.2
+PROP-00594,Islamabad,DHA,10,2263,5,5,1,4,1,0,1,0,1.71,343.2
+PROP-00595,Lahore,Bahria Town,12,2688,6,5,1,33,1,1,1,0,3.83,230.8
+PROP-00596,Faisalabad,Gulberg,5,1172,3,2,1,21,1,1,1,0,0.58,64
+PROP-00597,Lahore,Model Town,12,2692,4,3,2,16,0,0,1,1,0.26,254.1
+PROP-00598,Karachi,DHA,10,2218,3,2,2,14,0,1,1,1,5.49,278.3
+PROP-00599,Karachi,Clifton,10,2228,3,3,1,2,1,0,1,0,2.02,277
+PROP-00600,Islamabad,F-sectors,7,1616,2,2,1,14,1,0,1,0,3.42,200.6
+PROP-00601,Islamabad,E-sectors,10,2290,5,4,2,18,1,1,1,0,2.76,277.5
+PROP-00602,Karachi,Bahria Town,3,694,1,1,1.5,12,1,0,1,0,0.17,71.1
+PROP-00603,Faisalabad,Susan Road,10,2250,5,4,2,3,1,1,1,0,3.11,144
+PROP-00604,Islamabad,DHA,5,1164,3,2,2.5,1,1,0,1,0,1.63,191.3
+PROP-00605,Islamabad,F-sectors,12,2687,4,3,2,21,1,1,1,0,0.02,400.3
+PROP-00606,Rawalpindi,Bahria Town,7,1546,4,4,1,22,1,1,1,0,0.59,132
+PROP-00607,Lahore,Gulberg,7,1570,4,4,2,1,0,1,1,0,0.51,185.5
+PROP-00608,Karachi,Bahria Town,7,1543,2,1,2.5,2,0,1,1,0,2.91,183.8
+PROP-00609,Lahore,DHA,3,648,1,1,2,11,1,1,1,1,1.06,85.8
+PROP-00610,Islamabad,G-sectors,5,1130,3,3,2,1,1,1,1,0,0.66,155
+PROP-00611,Karachi,Clifton,7,1623,3,2,2.5,3,0,0,1,1,0.35,217.8
+PROP-00612,Islamabad,F-sectors,7,1586,4,3,2,1,1,1,1,0,3.02,235.9
+PROP-00613,Faisalabad,Wapda Town,5,1081,3,2,1,1,1,1,1,0,3.2,63.3
+PROP-00614,Karachi,North Nazimabad,5,1092,3,3,1,7,1,1,1,1,1.42,121
+PROP-00615,Lahore,Johar Town,5,1080,2,1,1.5,16,1,1,1,0,1.97,102.1
+PROP-00616,Islamabad,F-sectors,7,1559,2,1,1.5,8,1,1,1,1,0.59,272.7
+PROP-00617,Rawalpindi,Askari,3,717,1,1,1.5,15,1,1,1,0,0.08,59.5
+PROP-00618,Lahore,Gulberg,7,1621,4,3,2.5,19,1,0,1,0,0.17,143.7
+PROP-00619,Lahore,Johar Town,10,2268,5,5,2.5,14,0,0,1,0,1.32,163.8
+PROP-00620,Islamabad,F-sectors,5,1091,1,1,1,29,1,1,1,0,0.64,135.1
+PROP-00621,Lahore,Gulberg,10,2279,4,4,2,29,1,0,1,1,0.45,219.7
+PROP-00622,Lahore,Gulberg,5,1077,3,2,2,8,1,1,1,0,0.34,127.2
+PROP-00623,Islamabad,DHA,7,1537,4,4,1.5,7,1,1,1,0,0.48,249.7
+PROP-00624,Lahore,Johar Town,5,1158,1,1,1.5,10,1,0,1,1,0.68,106.9
+PROP-00625,Lahore,Gulberg,3,702,1,1,1.5,7,1,1,1,0,3.37,74.1
+PROP-00626,Karachi,North Nazimabad,10,2233,3,2,1,7,0,1,1,1,0.71,211.6
+PROP-00627,Rawalpindi,Chaklala,3,706,2,1,1.5,11,1,0,1,0,3.28,48.7
+PROP-00628,Lahore,DHA,12,2732,4,4,2.5,11,1,1,1,0,0.3,357.3
+PROP-00629,Karachi,North Nazimabad,5,1121,3,3,2.5,1,1,1,1,0,1.27,129
+PROP-00630,Islamabad,F-sectors,5,1172,3,2,1.5,28,1,1,1,1,2.01,145.8
+PROP-00631,Karachi,Gulshan-e-Iqbal,20,4544,8,7,1,21,0,1,1,0,0.22,353.8
+PROP-00632,Rawalpindi,Bahria Town,5,1164,2,1,1.5,7,1,1,1,0,0.84,115.7
+PROP-00633,Islamabad,G-sectors,7,1540,3,3,1,21,1,0,1,0,2.63,179.9
+PROP-00634,Lahore,Gulberg,12,2710,6,5,2,1,1,1,1,0,0.22,317.9
+PROP-00635,Islamabad,E-sectors,7,1534,3,3,2,9,1,1,0,1,0.54,226.5
+PROP-00636,Karachi,Bahria Town,5,1122,3,2,1.5,33,1,1,1,0,4.94,95.3
+PROP-00637,Karachi,DHA,12,2743,6,5,1,18,1,0,1,0,1.58,310.4
+PROP-00638,Faisalabad,Wapda Town,5,1125,3,3,1,18,1,0,1,0,1.11,56.1
+PROP-00639,Karachi,North Nazimabad,5,1134,2,2,2,17,1,0,1,0,1.7,89.2
+PROP-00640,Lahore,Gulberg,12,2686,4,3,2,16,0,0,1,0,0.26,250.5
+PROP-00641,Rawalpindi,Chaklala,12,2661,4,3,2,18,0,0,1,0,3.08,172.7
+PROP-00642,Karachi,Gulshan-e-Iqbal,10,2205,5,4,1.5,28,1,0,1,0,3.6,146
+PROP-00643,Lahore,Gulberg,10,2255,4,4,1.5,14,0,1,1,1,3.67,239.9
+PROP-00644,Lahore,DHA,5,1130,2,2,1.5,11,1,0,0,0,1.61,121.9
+PROP-00645,Islamabad,DHA,5,1152,3,3,1,28,1,1,1,0,0.82,155.2
+PROP-00646,Rawalpindi,Askari,12,2691,4,3,2,9,1,1,0,1,1.1,220
+PROP-00647,Rawalpindi,Chaklala,7,1526,3,3,1,8,0,1,1,1,1.32,118.5
+PROP-00648,Faisalabad,Model Town,3,642,2,1,2.5,2,1,1,1,0,1.02,51.9
+PROP-00649,Islamabad,F-sectors,5,1168,1,1,2,23,1,1,1,0,2.05,149.7
+PROP-00650,Rawalpindi,Askari,12,2724,4,3,2,25,1,1,1,1,0.95,243.7
+PROP-00651,Rawalpindi,Askari,12,2683,4,3,2.5,8,1,1,1,1,0.64,308.4
+PROP-00652,Faisalabad,Wapda Town,5,1154,2,2,2,33,1,1,1,0,0.89,48.8
+PROP-00653,Karachi,DHA,10,2298,4,3,1,10,1,0,1,0,1.09,282.7
+PROP-00654,Lahore,Johar Town,10,2291,3,3,1.5,6,1,1,1,0,0.29,234
+PROP-00655,Islamabad,Bahria Town,5,1122,3,3,1.5,25,1,1,1,0,0.83,142
+PROP-00656,Karachi,North Nazimabad,5,1161,3,2,2.5,7,1,1,1,0,1.27,109.9
+PROP-00657,Lahore,Gulberg,10,2239,5,5,2.5,31,0,1,1,0,0.07,155.8
+PROP-00658,Lahore,Johar Town,3,715,2,2,1,27,0,1,1,1,1.25,53.4
+PROP-00659,Lahore,Bahria Town,10,2287,3,3,2,12,0,1,1,1,0.72,254.9
+PROP-00660,Faisalabad,Wapda Town,7,1538,4,4,1,26,1,1,0,0,0.03,81.2
+PROP-00661,Lahore,Gulberg,10,2289,4,4,2,28,0,0,1,1,4.04,186
+PROP-00662,Karachi,Clifton,5,1135,1,1,2.5,26,1,0,1,0,0.23,130.6
+PROP-00663,Rawalpindi,Satellite Town,5,1128,2,1,1,5,1,0,1,0,0.51,93.7
+PROP-00664,Islamabad,E-sectors,3,681,1,1,1,14,1,1,1,0,0.26,98.9
+PROP-00665,Karachi,DHA,7,1545,4,4,2,14,1,0,1,0,1.17,202.2
+PROP-00666,Islamabad,E-sectors,3,712,2,1,1.5,15,1,1,1,1,0.15,100.4
+PROP-00667,Lahore,DHA,5,1088,2,1,2,3,1,1,1,0,3.42,144.1
+PROP-00668,Karachi,Clifton,7,1529,4,4,1,15,0,1,1,1,0.49,207.7
+PROP-00669,Lahore,Model Town,5,1143,1,1,1,17,1,1,1,0,0.93,102.4
+PROP-00670,Karachi,Gulshan-e-Iqbal,10,2202,4,3,2,10,1,1,1,0,1.6,229.1
+PROP-00671,Islamabad,G-sectors,12,2738,5,5,1,9,1,1,1,0,7.48,383.1
+PROP-00672,Lahore,Bahria Town,10,2288,4,4,1.5,21,1,1,1,0,2.49,223.5
+PROP-00673,Faisalabad,Susan Road,7,1614,4,3,1.5,3,1,0,1,0,0.87,79.9
+PROP-00674,Lahore,Gulberg,20,4493,8,7,1.5,3,0,1,1,0,3.19,483.3
+PROP-00675,Karachi,Gulshan-e-Iqbal,12,2657,5,4,1,28,0,0,1,0,4.41,163.8
+PROP-00676,Lahore,Bahria Town,7,1605,4,4,2.5,12,0,1,1,0,0.62,168
+PROP-00677,Karachi,Bahria Town,7,1621,3,2,2,1,1,0,1,0,4.94,219.2
+PROP-00678,Faisalabad,Model Town,7,1581,2,1,2,12,1,1,0,1,1.93,95.6
+PROP-00679,Karachi,Clifton,10,2298,4,4,2,32,0,0,1,0,2.6,229.8
+PROP-00680,Faisalabad,Jaranwala Road,10,2248,4,3,1.5,26,0,1,1,1,0.73,103.4
+PROP-00681,Karachi,DHA,3,637,1,1,2,22,0,0,1,0,0.05,69.6
+PROP-00682,Faisalabad,Susan Road,7,1588,3,3,1,26,0,1,1,0,2.02,72.2
+PROP-00683,Islamabad,E-sectors,10,2230,3,2,1,21,0,0,1,1,1.16,270.4
+PROP-00684,Lahore,Model Town,5,1079,1,1,2,29,1,1,1,0,1.25,100.9
+PROP-00685,Karachi,Gulshan-e-Iqbal,5,1173,2,2,2.5,31,1,0,1,0,0.78,82.3
+PROP-00686,Karachi,Gulshan-e-Iqbal,7,1530,4,3,2,7,1,1,1,0,0.06,161.8
+PROP-00687,Lahore,Gulberg,3,668,1,1,2,6,1,1,0,0,7.4,76.1
+PROP-00688,Karachi,DHA,7,1575,4,3,2,12,1,1,0,1,1.28,189.4
+PROP-00689,Lahore,DHA,3,724,1,1,2.5,17,1,1,0,0,1.12,78.8
+PROP-00690,Karachi,North Nazimabad,3,718,2,2,2,10,1,1,1,0,1.57,62.9
+PROP-00691,Faisalabad,Gulberg,5,1079,3,3,2,10,1,0,1,0,0.36,73.9
+PROP-00692,Karachi,North Nazimabad,10,2205,3,3,1.5,3,0,1,1,0,0.53,202.5
+PROP-00693,Karachi,DHA,3,679,1,1,2.5,3,1,1,1,0,1.52,97
+PROP-00694,Islamabad,G-sectors,3,719,1,1,2.5,11,1,1,1,0,0.06,98.4
+PROP-00695,Rawalpindi,Satellite Town,7,1611,3,2,2,11,1,1,1,0,0.35,116.9
+PROP-00696,Rawalpindi,Askari,5,1173,2,1,2,21,1,1,1,0,0.49,99.7
+PROP-00697,Lahore,Bahria Town,7,1561,2,1,1,21,1,1,1,0,0.46,152.8
+PROP-00698,Karachi,Bahria Town,10,2208,5,4,2,22,1,0,1,0,0.12,231.7
+PROP-00699,Karachi,North Nazimabad,7,1601,4,3,1.5,8,1,1,1,0,0.02,154
+PROP-00700,Rawalpindi,Bahria Town,7,1553,4,3,1.5,22,0,1,1,0,2.35,120.7
+PROP-00701,Islamabad,E-sectors,3,700,1,1,1.5,33,1,1,1,0,0.26,90.1
+PROP-00702,Faisalabad,Susan Road,10,2205,3,2,1,22,1,1,1,0,1.14,101.2
+PROP-00703,Rawalpindi,DHA,7,1562,3,3,1,6,1,0,1,0,2.69,147.2
+PROP-00704,Rawalpindi,Chaklala,7,1589,3,2,1.5,17,1,0,0,0,0.76,103.9
+PROP-00705,Faisalabad,Model Town,12,2697,6,6,1,13,0,1,1,1,4.26,162.1
+PROP-00706,Faisalabad,Jaranwala Road,10,2269,4,3,2,8,0,1,1,0,0.17,97.3
+PROP-00707,Rawalpindi,DHA,10,2222,5,5,2.5,12,1,0,1,0,2.11,220.3
+PROP-00708,Faisalabad,Susan Road,7,1542,2,1,2,20,0,1,0,0,4.14,63.7
+PROP-00709,Islamabad,DHA,5,1113,2,2,1,1,1,1,1,0,1.02,198.5
+PROP-00710,Lahore,DHA,7,1612,3,2,2.5,7,0,1,1,1,0.84,212.7
+PROP-00711,Faisalabad,Gulberg,10,2258,4,3,2.5,16,1,0,1,1,0.47,180.8
+PROP-00712,Karachi,Bahria Town,5,1134,2,1,2,9,1,1,1,0,0.66,142.7
+PROP-00713,Karachi,Clifton,10,2241,4,3,2,3,0,0,1,0,1.39,300.2
+PROP-00714,Islamabad,Bahria Town,5,1091,3,3,1,7,0,0,1,0,2.9,139.2
+PROP-00715,Lahore,Model Town,7,1561,3,3,2,7,0,0,1,0,0.27,137.9
+PROP-00716,Faisalabad,Gulberg,3,701,1,1,2,3,1,0,1,0,2.72,54.2
+PROP-00717,Islamabad,DHA,5,1120,1,1,2.5,6,1,0,1,0,0.78,189.2
+PROP-00718,Karachi,Bahria Town,7,1557,2,1,1.5,31,1,1,1,1,0.43,164.5
+PROP-00719,Islamabad,G-sectors,7,1557,2,1,2,18,1,1,1,0,0.44,212.7
+PROP-00720,Lahore,Gulberg,10,2239,4,3,1,26,1,1,1,1,1.8,208.4
+PROP-00721,Karachi,Clifton,5,1111,1,1,1.5,22,1,0,1,0,0.59,131.9
+PROP-00722,Lahore,Model Town,7,1527,3,3,1,16,0,0,1,0,0.24,120.2
+PROP-00723,Karachi,Bahria Town,10,2215,5,4,2,3,1,0,0,0,0.12,268.6
+PROP-00724,Lahore,Bahria Town,10,2228,4,3,2,12,1,1,1,1,4.46,263.9
+PROP-00725,Rawalpindi,Satellite Town,12,2749,4,3,2,20,1,1,1,0,0.22,188.8
+PROP-00726,Karachi,Bahria Town,5,1085,1,1,2.5,23,1,0,1,1,1.57,128.6
+PROP-00727,Lahore,Bahria Town,20,4452,9,8,2.5,5,0,1,1,0,0.62,512.6
+PROP-00728,Lahore,Model Town,5,1170,1,1,1.5,3,1,1,1,0,0.72,123.3
+PROP-00729,Islamabad,F-sectors,5,1090,3,2,2,0,1,0,1,0,1.32,169.8
+PROP-00730,Lahore,DHA,5,1098,3,2,2,13,1,0,1,1,1.5,143.7
+PROP-00731,Lahore,Johar Town,3,650,2,2,1.5,17,0,0,1,1,6.45,53.7
+PROP-00732,Rawalpindi,Satellite Town,10,2270,3,3,2,30,1,0,1,0,0.01,144.6
+PROP-00733,Karachi,Gulshan-e-Iqbal,10,2290,5,4,1,30,1,0,1,0,1.15,152.4
+PROP-00734,Islamabad,F-sectors,3,631,1,1,1,2,0,1,1,0,0.01,99.8
+PROP-00735,Islamabad,F-sectors,20,4474,7,6,1,27,0,1,1,0,3.88,526.7
+PROP-00736,Islamabad,DHA,3,672,1,1,1,13,1,0,0,0,1.38,82.7
+PROP-00737,Lahore,Johar Town,10,2207,4,3,1.5,9,1,1,1,0,0.63,241.9
+PROP-00738,Faisalabad,Susan Road,10,2268,3,3,1.5,21,0,1,1,0,0.57,100.9
+PROP-00739,Islamabad,Bahria Town,3,706,1,1,1,23,0,0,1,0,0.17,87.2
+PROP-00740,Karachi,Bahria Town,5,1166,3,2,1.5,1,1,0,1,1,0.15,146.5
+PROP-00741,Faisalabad,Wapda Town,5,1112,3,3,1,0,0,0,1,0,1.14,70.5
+PROP-00742,Lahore,Bahria Town,7,1622,2,1,1.5,12,1,1,1,0,0.12,192.1
+PROP-00743,Faisalabad,Jaranwala Road,5,1131,1,1,1,28,1,1,1,1,1.51,50
+PROP-00744,Lahore,Johar Town,7,1606,4,4,1,21,1,1,0,0,1.83,125.7
+PROP-00745,Karachi,Clifton,5,1171,2,1,2,4,1,1,1,0,1.31,174.1
+PROP-00746,Lahore,Bahria Town,12,2689,4,4,1.5,0,0,0,0,0,0.72,300
+PROP-00747,Islamabad,F-sectors,5,1173,2,1,1,5,0,0,1,0,0.82,120.8
+PROP-00748,Rawalpindi,Chaklala,7,1564,3,2,2,22,1,1,1,0,0.42,113.2
+PROP-00749,Lahore,Model Town,5,1135,1,1,2,3,0,1,1,0,1.8,111.9
+PROP-00750,Islamabad,DHA,5,1121,3,2,2.5,2,1,1,1,1,0.4,216.5
+PROP-00751,Faisalabad,Gulberg,10,2265,5,5,1,2,1,1,1,1,2.44,178.5
+PROP-00752,Lahore,Bahria Town,10,2234,3,3,2,22,1,1,1,1,1.8,226.3
+PROP-00753,Karachi,Bahria Town,5,1141,2,1,2,9,1,1,1,0,0.19,152.6
+PROP-00754,Karachi,Gulshan-e-Iqbal,7,1607,2,2,1,20,0,1,1,0,1.33,109.5
+PROP-00755,Karachi,Bahria Town,3,638,1,1,1.5,17,0,1,0,0,0.48,61
+PROP-00756,Rawalpindi,DHA,7,1564,4,4,1.5,32,1,0,1,0,3.64,131.2
+PROP-00757,Faisalabad,Jaranwala Road,7,1534,2,1,1,8,1,1,1,0,0.98,77.2
+PROP-00758,Islamabad,DHA,10,2228,4,3,2,7,1,0,1,0,0.34,361.1
+PROP-00759,Lahore,Johar Town,5,1137,2,2,2,17,1,1,1,1,0.75,102.2
+PROP-00760,Karachi,Bahria Town,5,1116,2,1,1.5,12,1,1,1,1,0.63,116.5
+PROP-00761,Islamabad,DHA,5,1136,1,1,1,8,1,0,1,0,1.98,156.3
+PROP-00762,Karachi,DHA,5,1131,1,1,2,6,1,1,1,0,0.76,161.6
+PROP-00763,Karachi,North Nazimabad,3,644,1,1,2,19,1,1,0,0,0,59.1
+PROP-00764,Lahore,DHA,7,1562,2,1,2,34,1,1,1,0,0.21,171.9
+PROP-00765,Karachi,Clifton,5,1081,2,2,2.5,13,0,0,1,1,3.15,140.4
+PROP-00766,Lahore,Model Town,10,2215,5,5,2.5,17,1,1,1,0,0.02,210.5
+PROP-00767,Islamabad,E-sectors,20,4549,8,8,2.5,21,1,0,1,1,0.79,677.9
+PROP-00768,Rawalpindi,Bahria Town,5,1131,2,1,2,21,1,1,1,1,4.48,106.6
+PROP-00769,Karachi,Bahria Town,5,1107,1,1,2,13,0,0,1,0,2.19,119.5
+PROP-00770,Lahore,Johar Town,3,649,1,1,2,1,1,1,1,0,5,77.4
+PROP-00771,Islamabad,E-sectors,12,2688,6,5,1,11,1,0,1,0,1.96,380.9
+PROP-00772,Rawalpindi,Chaklala,10,2208,5,4,1,31,1,1,0,0,0.28,140.7
+PROP-00773,Karachi,DHA,3,696,2,1,1.5,33,1,0,1,0,3.57,62
+PROP-00774,Karachi,DHA,7,1623,3,3,2,30,1,0,1,1,3.43,169
+PROP-00775,Karachi,Clifton,7,1569,4,3,2,16,0,0,1,0,0.12,166.6
+PROP-00776,Faisalabad,Model Town,5,1168,2,2,1.5,19,1,1,1,1,1.93,68.2
+PROP-00777,Rawalpindi,Satellite Town,7,1573,4,3,2.5,23,1,1,1,1,0.17,123
+PROP-00778,Lahore,Gulberg,5,1160,3,3,2,3,1,1,1,0,4.59,119.6
+PROP-00779,Lahore,DHA,7,1541,3,3,2,16,1,1,1,0,0.76,166.4
+PROP-00780,Lahore,Gulberg,7,1555,3,3,2.5,18,1,1,1,1,1.96,160
+PROP-00781,Karachi,Gulshan-e-Iqbal,7,1580,3,3,1,29,1,1,1,0,1.34,128.7
+PROP-00782,Lahore,DHA,7,1551,3,3,2.5,25,1,0,1,0,1.24,146.4
+PROP-00783,Faisalabad,Jaranwala Road,3,670,1,1,2,7,0,1,1,1,3.35,33.8
+PROP-00784,Karachi,North Nazimabad,7,1578,3,3,1.5,24,0,1,1,0,1.82,131.6
+PROP-00785,Lahore,Johar Town,10,2265,5,5,2,5,1,0,1,0,0.34,244.6
+PROP-00786,Islamabad,F-sectors,5,1136,1,1,1,31,1,1,1,0,0.72,156
+PROP-00787,Islamabad,F-sectors,5,1156,3,2,1.5,22,1,0,1,0,0.45,136.4
+PROP-00788,Lahore,Gulberg,5,1089,3,3,1,17,1,1,1,1,0.02,114.6
+PROP-00789,Islamabad,Bahria Town,3,637,1,1,2,27,0,1,1,0,0.87,92.1
+PROP-00790,Rawalpindi,DHA,5,1082,3,3,1.5,28,1,0,1,1,2.89,96
+PROP-00791,Karachi,Bahria Town,5,1126,1,1,1,15,0,1,1,1,2.49,124.5
+PROP-00792,Lahore,DHA,5,1075,2,1,2.5,24,0,1,1,0,0.42,96
+PROP-00793,Lahore,Bahria Town,10,2274,4,3,1.5,9,1,1,1,1,1.02,269.5
+PROP-00794,Lahore,Bahria Town,3,689,1,1,1,20,1,1,1,0,0.34,67.8
+PROP-00795,Karachi,Gulshan-e-Iqbal,5,1125,2,1,1,7,0,1,0,1,1.49,98.5
+PROP-00796,Islamabad,E-sectors,20,4478,8,8,1.5,32,0,1,1,1,0.41,512.9
+PROP-00797,Rawalpindi,Chaklala,7,1574,2,2,1,20,1,0,1,0,2.41,92.9
+PROP-00798,Rawalpindi,Satellite Town,5,1103,3,2,1.5,18,1,0,1,1,2.32,88.9
+PROP-00799,Lahore,Bahria Town,5,1098,1,1,1.5,8,1,0,1,0,3.1,128.5
+PROP-00800,Islamabad,F-sectors,12,2669,6,5,1.5,25,1,0,1,1,0.85,391.8
+PROP-00801,Lahore,Gulberg,3,715,1,1,2,27,1,1,1,0,2.07,60.2
+PROP-00802,Islamabad,Bahria Town,5,1086,2,1,2,16,0,1,1,1,3.63,154.5
+PROP-00803,Lahore,Bahria Town,5,1152,1,1,1,30,1,1,1,1,0.5,109.4
+PROP-00804,Karachi,Clifton,7,1557,4,4,2,13,0,1,1,0,0.42,190.7
+PROP-00805,Lahore,Johar Town,12,2743,5,5,1,1,0,0,1,1,9.55,236.6
+PROP-00806,Islamabad,F-sectors,3,660,1,1,2.5,13,1,1,1,0,1.3,92.4
+PROP-00807,Lahore,DHA,5,1077,1,1,2,3,1,1,0,0,2.25,136.1
+PROP-00808,Karachi,North Nazimabad,7,1545,4,4,2,14,1,0,1,0,0.08,118.4
+PROP-00809,Rawalpindi,DHA,10,2209,4,4,1.5,14,0,0,1,1,3.04,208.2
+PROP-00810,Islamabad,DHA,3,698,2,2,1.5,23,0,1,1,0,1.41,93
+PROP-00811,Islamabad,Bahria Town,5,1097,2,2,2,19,0,1,1,0,0.32,132.7
+PROP-00812,Islamabad,Bahria Town,5,1109,2,1,1,28,1,0,1,0,2.73,122.3
+PROP-00813,Lahore,DHA,10,2228,4,3,1.5,23,1,1,1,1,2.6,227.7
+PROP-00814,Lahore,Gulberg,5,1163,2,2,1,21,1,1,1,1,3.5,119.6
+PROP-00815,Karachi,Bahria Town,3,665,1,1,1.5,13,0,0,1,1,1.79,71.6
+PROP-00816,Islamabad,F-sectors,3,675,1,1,2.5,27,1,1,1,0,2.07,86.3
+PROP-00817,Karachi,Bahria Town,3,682,1,1,2,25,0,0,1,1,1.37,66.6
+PROP-00818,Rawalpindi,Satellite Town,10,2267,5,4,2,22,1,0,1,0,3.2,130.1
+PROP-00819,Lahore,DHA,7,1587,2,2,2,32,1,1,1,1,2.02,190.5
+PROP-00820,Rawalpindi,Satellite Town,3,654,1,1,2,11,1,1,0,1,1.28,57
+PROP-00821,Karachi,Bahria Town,7,1584,2,2,1,17,1,1,1,1,1.42,183.6
+PROP-00822,Karachi,Bahria Town,12,2732,4,4,1.5,18,1,1,1,0,1.07,297.7
+PROP-00823,Rawalpindi,Askari,7,1574,4,4,1,21,1,0,1,1,0.85,137.8
+PROP-00824,Rawalpindi,DHA,5,1095,2,2,2.5,5,1,1,1,0,0.96,137.7
+PROP-00825,Karachi,Clifton,5,1112,3,2,2.5,29,1,1,1,1,0.44,144.5
+PROP-00826,Islamabad,G-sectors,3,696,1,1,1,0,1,1,1,1,1.57,119.1
+PROP-00827,Rawalpindi,Chaklala,12,2668,6,6,1.5,27,1,1,1,0,0.22,155.5
+PROP-00828,Islamabad,DHA,20,4466,8,7,1,11,1,1,1,0,0.37,645
+PROP-00829,Karachi,North Nazimabad,10,2253,5,5,2,0,1,1,1,0,1.13,224.2
+PROP-00830,Karachi,Gulshan-e-Iqbal,10,2233,5,5,1.5,6,1,1,1,0,1.17,255.3
+PROP-00831,Islamabad,G-sectors,10,2216,3,2,1.5,12,1,1,1,0,0.11,273.2
+PROP-00832,Islamabad,F-sectors,5,1117,3,2,2.5,19,1,1,1,0,0.02,163
+PROP-00833,Lahore,DHA,5,1160,2,1,1,17,1,0,0,0,0.21,118.2
+PROP-00834,Lahore,Johar Town,10,2288,4,3,1.5,0,0,0,1,0,2.68,208.1
+PROP-00835,Islamabad,G-sectors,7,1615,2,1,1,24,0,1,1,0,0.33,183.9
+PROP-00836,Lahore,Model Town,20,4459,9,8,1.5,27,1,1,1,0,1.21,341.8
+PROP-00837,Islamabad,Bahria Town,10,2256,5,5,2,10,1,0,1,0,1.42,311.5
+PROP-00838,Islamabad,DHA,10,2240,3,3,1,9,1,1,1,0,1.56,350.2
+PROP-00839,Rawalpindi,Chaklala,3,670,1,1,2.5,18,1,0,1,0,4.44,44.9
+PROP-00840,Rawalpindi,Askari,12,2697,5,5,1.5,15,1,0,1,0,0.56,214.5
+PROP-00841,Karachi,Gulshan-e-Iqbal,10,2241,4,3,1,20,1,1,1,1,0.71,192.8
+PROP-00842,Islamabad,DHA,10,2221,4,4,2,10,1,1,0,0,0.52,368.8
+PROP-00843,Rawalpindi,DHA,10,2210,4,4,1,21,1,0,1,1,0.25,223.4
+PROP-00844,Lahore,Gulberg,20,4458,8,7,2,18,0,0,1,0,0.44,440.4
+PROP-00845,Faisalabad,Gulberg,10,2271,4,3,1.5,4,1,0,1,1,3.3,163.3
+PROP-00846,Karachi,Bahria Town,3,629,1,1,1,31,1,1,1,0,0.93,60.1
+PROP-00847,Islamabad,G-sectors,3,706,2,1,2,13,1,1,1,1,10.96,101.6
+PROP-00848,Lahore,Model Town,7,1594,3,2,1,17,1,0,1,0,1.08,141.3
+PROP-00849,Lahore,Johar Town,5,1087,2,1,2.5,29,1,1,1,0,1.14,87.9
+PROP-00850,Faisalabad,Susan Road,7,1565,3,3,2,3,1,1,1,1,0.8,98.2
+PROP-00851,Lahore,Gulberg,5,1134,1,1,1,17,0,0,1,1,0.94,85
+PROP-00852,Lahore,Bahria Town,10,2298,5,4,2.5,2,1,0,1,1,0.32,277.1
+PROP-00853,Lahore,Bahria Town,7,1569,3,3,2,10,1,1,1,0,2.62,161
+PROP-00854,Karachi,North Nazimabad,3,699,2,1,2.5,4,1,1,1,0,0.57,64.7
+PROP-00855,Karachi,Gulshan-e-Iqbal,12,2745,5,4,2,27,1,0,1,0,0.42,212.9
+PROP-00856,Faisalabad,Jaranwala Road,5,1152,2,1,2,8,1,1,1,1,1.76,70
+PROP-00857,Lahore,Bahria Town,12,2718,5,5,1,7,1,1,1,1,0.67,299.5
+PROP-00858,Islamabad,Bahria Town,12,2730,5,5,1.5,30,0,1,1,1,1.69,337.2
+PROP-00859,Lahore,Bahria Town,10,2249,3,3,1.5,20,1,1,1,1,0.76,245
+PROP-00860,Karachi,Clifton,10,2278,3,3,2,18,0,1,0,0,0.81,271.8
+PROP-00861,Lahore,Johar Town,12,2740,5,5,2.5,33,1,1,1,0,2.22,228.4
+PROP-00862,Karachi,Bahria Town,10,2273,4,3,1.5,4,0,1,1,1,0.48,291.8
+PROP-00863,Lahore,Bahria Town,5,1127,1,1,2,26,1,1,1,0,4.97,118.4
+PROP-00864,Lahore,Johar Town,5,1153,2,1,2,22,1,1,1,1,0.17,110.4
+PROP-00865,Islamabad,F-sectors,10,2213,4,4,1.5,23,1,1,1,0,6.81,296.3
+PROP-00866,Karachi,Gulshan-e-Iqbal,3,691,2,2,1,32,1,1,1,0,4.59,51.3
+PROP-00867,Lahore,Johar Town,5,1090,1,1,1,20,1,0,1,1,0.03,97.6
+PROP-00868,Karachi,DHA,10,2255,5,5,2.5,5,0,1,1,0,3.45,305.5
+PROP-00869,Faisalabad,Model Town,3,716,1,1,2,31,0,0,0,1,2.29,33.3
+PROP-00870,Karachi,Gulshan-e-Iqbal,10,2278,3,3,2,3,0,1,1,1,2.7,218.8
+PROP-00871,Karachi,DHA,5,1153,2,2,2,11,1,1,1,1,1.38,152
+PROP-00872,Islamabad,F-sectors,7,1614,4,4,2,21,1,1,1,0,0.65,222.7
+PROP-00873,Islamabad,DHA,5,1174,1,1,2,23,0,1,1,1,1.4,151
+PROP-00874,Lahore,Model Town,5,1156,2,2,1,22,0,0,0,1,0.84,91.8
+PROP-00875,Karachi,Bahria Town,5,1164,3,2,2,7,0,1,1,0,2.38,128.8
+PROP-00876,Lahore,Model Town,7,1535,3,2,2,5,1,0,1,0,0.83,146.4
+PROP-00877,Rawalpindi,Satellite Town,20,4540,8,7,2.5,10,1,1,1,1,0.6,394.9
+PROP-00878,Faisalabad,Gulberg,3,632,1,1,2,29,1,1,1,1,0.34,42.3
+PROP-00879,Lahore,Model Town,3,668,2,1,1,26,0,0,1,1,2.55,47.9
+PROP-00880,Faisalabad,Gulberg,12,2675,5,5,2,14,0,1,1,0,0.97,161.5
+PROP-00881,Rawalpindi,Chaklala,3,633,1,1,2,0,0,0,0,0,1.93,44
+PROP-00882,Faisalabad,Jaranwala Road,10,2220,5,4,2,15,0,0,1,0,1.97,89.9
+PROP-00883,Lahore,Gulberg,12,2715,4,3,1,33,1,0,1,0,2.72,207.3
+PROP-00884,Faisalabad,Gulberg,5,1102,2,1,1.5,17,1,1,1,0,0.28,74.7
+PROP-00885,Rawalpindi,Askari,7,1551,4,3,1,0,1,0,1,0,1.59,139.8
+PROP-00886,Faisalabad,Model Town,10,2281,5,5,1.5,14,0,1,1,0,0.44,123.7
+PROP-00887,Lahore,Bahria Town,10,2225,3,2,2,28,1,1,1,0,0.56,197.3
+PROP-00888,Islamabad,G-sectors,3,700,1,1,2.5,21,0,1,1,0,0.47,76.4
+PROP-00889,Faisalabad,Model Town,10,2226,5,5,2,8,1,1,1,0,0.81,146.1
+PROP-00890,Karachi,DHA,5,1086,1,1,2,9,1,0,1,0,0.12,133.4
+PROP-00891,Islamabad,Bahria Town,3,686,1,1,1,24,1,1,1,1,0.61,95.3
+PROP-00892,Islamabad,F-sectors,10,2278,3,2,1,31,1,0,1,0,1.57,294.1
+PROP-00893,Lahore,Johar Town,12,2744,4,3,2,24,0,1,1,0,1.72,231.3
+PROP-00894,Karachi,North Nazimabad,5,1115,3,2,2,16,1,1,1,0,1.39,102.5
+PROP-00895,Karachi,Gulshan-e-Iqbal,7,1528,4,3,1.5,9,1,1,1,1,1.75,158.8
+PROP-00896,Karachi,Bahria Town,7,1542,3,2,2.5,0,1,1,1,0,3.18,210
+PROP-00897,Lahore,DHA,7,1563,4,4,1,1,1,1,1,0,1.48,205.8
+PROP-00898,Rawalpindi,Askari,10,2215,5,4,2,17,0,1,1,0,1.22,164
+PROP-00899,Faisalabad,Jaranwala Road,3,669,1,1,1.5,3,1,1,1,0,0.62,31.5
+PROP-00900,Islamabad,E-sectors,12,2655,5,5,2,8,1,1,1,1,1.25,424.4
+PROP-00901,Rawalpindi,Chaklala,5,1093,1,1,1,5,0,1,0,0,1.03,71.9
+PROP-00902,Karachi,Gulshan-e-Iqbal,5,1077,2,2,1,28,1,1,1,0,0.17,96.2
+PROP-00903,Faisalabad,Gulberg,7,1576,3,3,2.5,26,1,1,1,0,0.61,100.8
+PROP-00904,Karachi,DHA,10,2269,5,5,1.5,8,1,1,1,0,2.33,294.2
+PROP-00905,Lahore,Gulberg,3,723,1,1,1,24,0,1,1,0,0.55,53.1
+PROP-00906,Rawalpindi,Bahria Town,3,719,1,1,2,9,1,1,1,1,0.81,76
+PROP-00907,Faisalabad,Susan Road,10,2261,3,3,2,27,1,1,1,0,2.58,96.7
+PROP-00908,Lahore,Bahria Town,5,1131,2,2,2,14,1,1,1,0,0.08,133.3
+PROP-00909,Karachi,DHA,5,1105,1,1,2,25,1,0,1,0,0.12,125.3
+PROP-00910,Faisalabad,Model Town,5,1133,1,1,2,24,1,0,1,0,2.07,62.2
+PROP-00911,Rawalpindi,DHA,10,2208,5,4,2,15,1,0,1,0,0.07,217.4
+PROP-00912,Faisalabad,Gulberg,3,695,1,1,1.5,14,1,0,1,0,0.11,43.2
+PROP-00913,Lahore,Gulberg,3,638,1,1,1.5,12,0,1,1,0,0.44,78.6
+PROP-00914,Islamabad,E-sectors,5,1105,3,2,1,10,0,1,1,0,0.97,144.7
+PROP-00915,Islamabad,G-sectors,12,2674,4,3,1.5,18,1,1,1,0,0.06,359.9
+PROP-00916,Lahore,Johar Town,10,2296,5,5,2,17,0,0,1,0,1.09,192.7
+PROP-00917,Rawalpindi,Satellite Town,5,1099,3,3,2,26,0,0,0,0,0.18,63.6
+PROP-00918,Karachi,Clifton,5,1097,2,2,2,19,1,1,0,1,1.98,140.7
+PROP-00919,Islamabad,DHA,5,1091,2,2,1,2,1,1,0,1,1.68,181.2
+PROP-00920,Lahore,Model Town,20,4512,7,7,1,34,1,0,1,0,0.32,344.5
+PROP-00921,Lahore,Bahria Town,5,1159,3,2,2,26,1,1,1,0,0.51,110.7
+PROP-00922,Rawalpindi,DHA,20,4523,9,8,1,6,1,1,1,0,0.15,452.9
+PROP-00923,Karachi,DHA,20,4489,9,8,1,5,1,0,1,1,3.3,595.6
+PROP-00924,Lahore,Johar Town,10,2261,3,3,2,1,1,1,1,0,0.21,269.1
+PROP-00925,Lahore,Bahria Town,10,2289,5,5,1.5,24,0,0,1,0,0.48,200.2
+PROP-00926,Lahore,Johar Town,3,633,2,2,1,3,1,1,1,0,0.65,64.7
+PROP-00927,Lahore,DHA,5,1134,1,1,1.5,27,1,1,1,0,1.12,120.1
+PROP-00928,Faisalabad,Jaranwala Road,7,1554,3,2,2.5,10,1,0,1,1,6.79,80.8
+PROP-00929,Faisalabad,Jaranwala Road,5,1135,2,2,1.5,3,1,0,1,1,0.59,63.6
+PROP-00930,Rawalpindi,Chaklala,5,1143,2,1,2,9,0,1,1,1,0.41,101.1
+PROP-00931,Faisalabad,Wapda Town,5,1151,2,1,1,21,0,1,0,1,1.78,61.6
+PROP-00932,Faisalabad,Model Town,3,693,1,1,1.5,3,1,1,1,0,0.82,48
+PROP-00933,Karachi,DHA,3,690,2,2,1.5,10,1,1,0,1,1.78,82.8
+PROP-00934,Lahore,Gulberg,3,709,1,1,2.5,2,1,0,1,0,0.16,79.9
+PROP-00935,Faisalabad,Gulberg,5,1081,2,1,2.5,29,1,0,1,1,1.71,76.1
+PROP-00936,Lahore,DHA,5,1153,2,1,2.5,0,0,1,1,0,0.29,146.2
+PROP-00937,Karachi,Clifton,10,2292,5,4,1,1,1,1,1,0,1.05,318.9
+PROP-00938,Rawalpindi,Satellite Town,5,1141,2,1,1,6,1,1,1,1,0.91,105.8
+PROP-00939,Lahore,Johar Town,20,4452,7,6,1,17,1,1,1,0,1.07,360.4
+PROP-00940,Lahore,Bahria Town,5,1109,2,2,2,17,1,1,1,1,1.52,124
+PROP-00941,Lahore,Gulberg,5,1083,3,3,2.5,23,1,1,1,0,0.05,96.9
+PROP-00942,Lahore,Gulberg,5,1157,1,1,1.5,8,1,1,1,1,2.02,135.6
+PROP-00943,Karachi,Gulshan-e-Iqbal,12,2685,5,5,1.5,17,1,0,1,1,0.54,237
+PROP-00944,Karachi,DHA,20,4503,9,8,1,6,0,1,1,0,2.1,566.9
+PROP-00945,Rawalpindi,Askari,5,1080,1,1,1,23,0,1,1,0,1.3,80.7
+PROP-00946,Karachi,Clifton,3,662,2,2,2,9,1,1,1,0,1.33,99.7
+PROP-00947,Rawalpindi,Chaklala,7,1593,2,1,2.5,7,0,0,1,0,1,118.1
+PROP-00948,Karachi,Clifton,3,706,1,1,2,32,0,1,1,0,1.42,76.2
+PROP-00949,Lahore,Johar Town,7,1574,3,3,2.5,25,1,0,1,1,1.08,153.4
+PROP-00950,Karachi,Bahria Town,5,1123,3,3,2.5,22,1,1,1,0,1.35,124.8
+PROP-00951,Faisalabad,Wapda Town,20,4453,8,7,2,30,1,1,1,0,1.05,252.1
+PROP-00952,Lahore,Bahria Town,20,4505,7,6,1.5,25,1,0,0,0,0.11,433.4
+PROP-00953,Karachi,Gulshan-e-Iqbal,5,1082,1,1,2,11,0,0,1,0,0.1,109.3
+PROP-00954,Karachi,Clifton,20,4523,9,8,1,15,0,1,1,0,0.05,570.9
+PROP-00955,Lahore,DHA,10,2264,5,5,2,31,1,1,1,0,4.71,213.9
+PROP-00956,Rawalpindi,Chaklala,5,1139,2,1,2,7,0,1,1,0,4.86,69.6
+PROP-00957,Lahore,DHA,10,2272,5,4,1.5,1,0,1,1,1,0.52,276.7
+PROP-00958,Lahore,Gulberg,12,2723,5,5,2.5,2,1,1,1,1,0.85,370.1
+PROP-00959,Lahore,Gulberg,7,1539,4,4,1.5,33,1,1,1,0,1.66,134.6
+PROP-00960,Rawalpindi,Chaklala,7,1529,4,4,1,4,1,1,1,0,3.25,118
+PROP-00961,Islamabad,DHA,5,1093,3,2,2,28,1,1,1,0,4.7,162.5
+PROP-00962,Lahore,DHA,5,1161,3,3,2,32,1,0,0,0,0.32,105.1
+PROP-00963,Rawalpindi,Bahria Town,5,1145,3,2,1.5,31,1,1,1,0,0.85,83.8
+PROP-00964,Karachi,Clifton,10,2262,5,5,2,34,0,1,1,0,2.09,217.4
+PROP-00965,Islamabad,F-sectors,7,1563,3,2,1,14,1,1,1,0,2.11,228
+PROP-00966,Islamabad,DHA,3,688,1,1,2,16,0,0,1,0,1.14,92
+PROP-00967,Karachi,Clifton,20,4468,9,8,1,4,1,0,1,0,0.75,602
+PROP-00968,Islamabad,E-sectors,20,4454,7,6,1.5,32,1,1,1,0,2.94,544
+PROP-00969,Lahore,Model Town,12,2659,4,4,1.5,14,1,1,1,0,0.46,232.5
+PROP-00970,Islamabad,F-sectors,3,625,2,1,1,19,1,1,0,0,2.55,87.9
+PROP-00971,Lahore,DHA,7,1527,2,2,2.5,30,0,1,1,0,0.37,177.4
+PROP-00972,Islamabad,Bahria Town,5,1169,2,2,2,3,1,1,0,1,0.91,197.8
+PROP-00973,Karachi,Clifton,5,1110,3,2,2,1,0,0,1,0,2.45,134.3
+PROP-00974,Lahore,Bahria Town,5,1099,1,1,2,11,1,0,1,0,6.07,113.2
+PROP-00975,Faisalabad,Gulberg,3,666,2,1,1,10,1,1,1,0,0.83,42.2
+PROP-00976,Lahore,Bahria Town,10,2293,3,3,1,3,1,1,1,0,0.78,291.3
+PROP-00977,Lahore,Model Town,5,1158,1,1,2,31,1,0,1,0,0.55,92.1
+PROP-00978,Lahore,Johar Town,7,1578,3,3,2,10,1,0,1,0,0.79,122.8
+PROP-00979,Rawalpindi,Askari,12,2703,4,4,2,13,1,1,1,0,0.56,227.4
+PROP-00980,Lahore,Gulberg,3,675,1,1,2.5,27,1,1,0,0,1.51,57.5
+PROP-00981,Karachi,Bahria Town,10,2271,5,4,1.5,25,1,1,1,1,0.96,254.7
+PROP-00982,Karachi,Gulshan-e-Iqbal,7,1624,3,3,1.5,16,1,1,1,0,0.25,156.9
+PROP-00983,Lahore,DHA,10,2228,4,4,1,23,1,1,1,0,4.24,211.1
+PROP-00984,Karachi,DHA,7,1561,3,3,1.5,31,1,0,1,1,0.36,158.8
+PROP-00985,Rawalpindi,Chaklala,10,2241,4,3,1,31,1,1,1,0,0.27,139
+PROP-00986,Karachi,DHA,3,677,1,1,1,34,1,1,1,0,0.43,67.8
+PROP-00987,Islamabad,E-sectors,10,2228,4,3,1,28,0,0,0,0,0.15,229.3
+PROP-00988,Rawalpindi,Chaklala,5,1135,3,2,1.5,14,1,0,1,0,1.53,74.1
+PROP-00989,Islamabad,DHA,10,2285,4,3,2,8,1,1,1,1,2.71,387.4
+PROP-00990,Lahore,DHA,10,2217,5,4,2,2,1,1,1,0,0.26,277.1
+PROP-00991,Islamabad,E-sectors,3,705,2,2,1,14,1,0,1,0,0.28,88.4
+PROP-00992,Islamabad,G-sectors,10,2259,4,3,1,23,1,0,1,0,0.45,249.2
+PROP-00993,Lahore,Model Town,12,2676,6,5,2,32,1,0,1,1,0.14,216
+PROP-00994,Lahore,DHA,5,1143,1,1,2,13,0,1,1,0,0.25,117
+PROP-00995,Karachi,Bahria Town,5,1126,3,2,1,6,1,0,1,0,1.42,120.9
+PROP-00996,Karachi,Clifton,12,2672,6,6,1,20,0,0,1,0,2.41,232.9
+PROP-00997,Faisalabad,Susan Road,10,2233,4,4,1,4,0,1,1,0,0.48,104.3
+PROP-00998,Karachi,DHA,10,2257,4,4,2,28,1,0,1,0,0.51,225.8
+PROP-00999,Karachi,DHA,7,1591,4,4,2.5,5,0,1,1,0,0.23,192.4
+PROP-01000,Karachi,Bahria Town,3,719,2,1,2.5,17,1,1,1,1,0.41,82.2
+PROP-01001,Faisalabad,Susan Road,5,1075,3,3,1.5,11,0,1,1,0,3.14,49.9
+PROP-01002,Rawalpindi,Satellite Town,3,705,2,1,1.5,25,1,1,1,0,0.62,44.1
+PROP-01003,Islamabad,Bahria Town,10,2272,3,3,1,27,1,1,1,0,1.65,281.6
+PROP-01004,Rawalpindi,Bahria Town,10,2272,4,4,1,9,1,0,1,0,0.16,190.9
+PROP-01005,Karachi,North Nazimabad,20,4541,9,8,1.5,0,1,1,0,0,3.26,433.2
+PROP-01006,Islamabad,F-sectors,7,1596,3,2,2,11,1,0,1,1,0.42,265.8
+PROP-01007,Karachi,Gulshan-e-Iqbal,3,639,1,1,2,4,1,1,1,0,0.67,81.8
+PROP-01008,Rawalpindi,Bahria Town,12,2744,5,5,2,21,1,1,0,1,1.13,251.6
+PROP-01009,Islamabad,DHA,3,668,2,1,1.5,33,1,0,0,1,0.88,75.4
+PROP-01010,Karachi,Clifton,3,673,1,1,1.5,14,0,0,1,0,0.33,81
+PROP-01011,Lahore,Gulberg,20,4498,7,7,2.5,13,1,0,1,0,0.26,466.9
+PROP-01012,Faisalabad,Susan Road,7,1578,4,3,2.5,14,1,1,0,0,0.94,81.7
+PROP-01013,Faisalabad,Susan Road,10,2213,5,5,1.5,33,0,0,1,0,0.99,92.6
+PROP-01014,Rawalpindi,DHA,5,1096,3,3,2,7,0,1,1,0,0.8,117
+PROP-01015,Karachi,Gulshan-e-Iqbal,20,4535,9,8,2.5,30,1,1,1,0,1.19,360.8
+PROP-01016,Karachi,DHA,7,1533,4,4,2,17,1,1,1,1,1.54,194.3
+PROP-01017,Rawalpindi,Chaklala,12,2650,6,6,2,25,1,1,1,0,0.23,169
+PROP-01018,Lahore,Model Town,5,1122,2,2,1,23,1,1,1,0,1.41,103.9
+PROP-01019,Faisalabad,Gulberg,5,1162,2,1,1,30,0,1,1,0,0.44,60
+PROP-01020,Faisalabad,Gulberg,3,627,1,1,2,5,0,1,1,0,0.28,45.6
+PROP-01021,Faisalabad,Model Town,5,1114,1,1,1.5,1,1,1,1,1,1.25,80.8
+PROP-01022,Lahore,DHA,7,1537,2,1,2,22,1,0,0,0,0.1,159
+PROP-01023,Lahore,Johar Town,5,1092,3,2,1,25,0,1,1,0,1.86,91.5
+PROP-01024,Lahore,Model Town,5,1145,2,2,1,33,1,1,1,0,2.15,81
+PROP-01025,Lahore,Model Town,5,1112,2,1,1,5,1,0,1,0,1.16,98.7
+PROP-01026,Karachi,Bahria Town,7,1582,4,3,2,12,1,1,1,1,1.94,198
+PROP-01027,Karachi,Bahria Town,7,1579,2,2,1.5,21,1,1,1,0,0.61,145.6
+PROP-01028,Faisalabad,Susan Road,5,1112,3,2,2,0,1,1,1,0,0.64,60.8
+PROP-01029,Lahore,DHA,3,687,1,1,2,18,1,1,1,0,2.9,74.1
+PROP-01030,Faisalabad,Model Town,7,1576,2,2,2.5,14,1,1,1,1,2.3,102.7
+PROP-01031,Karachi,Gulshan-e-Iqbal,5,1130,3,2,1,22,1,1,1,0,1.94,106.9
+PROP-01032,Lahore,Johar Town,20,4544,7,7,2,16,1,1,1,0,1.5,395.3
+PROP-01033,Lahore,Johar Town,5,1161,3,3,2.5,11,0,1,1,0,0.21,96.2
+PROP-01034,Lahore,Johar Town,7,1527,4,4,1,9,1,1,1,0,0.59,147
+PROP-01035,Islamabad,G-sectors,12,2724,5,4,2,12,0,1,1,0,0.71,364.7
+PROP-01036,Islamabad,E-sectors,5,1139,2,1,2,2,0,1,1,1,0.37,185.3
+PROP-01037,Islamabad,G-sectors,3,681,1,1,2,3,1,1,1,0,1.08,92
+PROP-01038,Islamabad,G-sectors,3,626,1,1,1.5,17,1,1,1,0,1.27,86.6
+PROP-01039,Islamabad,Bahria Town,7,1565,4,3,2,7,1,0,1,0,2.98,233.8
+PROP-01040,Karachi,Clifton,5,1172,3,3,1,8,1,1,1,0,1.16,152
+PROP-01041,Karachi,Clifton,10,2265,3,3,2.5,16,1,0,0,1,8.92,260.5
+PROP-01042,Karachi,North Nazimabad,12,2733,4,3,1,28,1,1,1,0,2.92,187.4
+PROP-01043,Rawalpindi,DHA,10,2226,3,3,1,17,0,1,1,1,0.67,216.6
+PROP-01044,Islamabad,G-sectors,3,711,2,1,2,11,0,0,1,0,0.98,87.9
+PROP-01045,Lahore,Johar Town,5,1139,2,1,1.5,16,0,1,1,0,0.19,95.9
+PROP-01046,Lahore,Gulberg,10,2240,5,5,2.5,11,0,1,1,1,0.73,262.3
+PROP-01047,Lahore,Bahria Town,5,1131,2,1,1,14,1,0,1,0,4.83,111.9
+PROP-01048,Karachi,Gulshan-e-Iqbal,10,2204,5,5,2,31,1,1,1,1,0.91,200.5
+PROP-01049,Islamabad,DHA,5,1106,1,1,1,5,0,0,1,1,0.49,165.3
+PROP-01050,Rawalpindi,Bahria Town,5,1086,1,1,1.5,10,0,1,1,0,0.96,91.1
+PROP-01051,Lahore,Johar Town,7,1590,4,3,2,18,0,1,1,0,7.15,119.4
+PROP-01052,Karachi,Bahria Town,10,2240,3,3,2,24,1,1,1,1,3.93,259.1
+PROP-01053,Lahore,DHA,5,1142,2,1,2.5,33,1,1,1,1,0.33,119.3
+PROP-01054,Lahore,DHA,7,1622,4,4,1,3,0,1,1,0,2.92,174.2
+PROP-01055,Rawalpindi,DHA,12,2713,6,5,2.5,24,1,1,1,0,0.93,278
+PROP-01056,Rawalpindi,DHA,3,630,1,1,1,0,1,1,1,1,0.21,76.7
+PROP-01057,Faisalabad,Model Town,5,1091,2,2,1,26,0,1,1,0,0.14,54.9
+PROP-01058,Islamabad,G-sectors,7,1595,2,1,1,19,1,1,1,0,1.42,187.9
+PROP-01059,Islamabad,DHA,10,2239,5,4,2.5,23,1,1,1,0,5.35,334.8
+PROP-01060,Lahore,Gulberg,5,1118,3,2,2.5,30,1,1,1,0,1.21,102.3
+PROP-01061,Lahore,Gulberg,7,1525,2,1,1.5,32,1,0,1,0,0.39,139
+PROP-01062,Karachi,Bahria Town,20,4461,7,6,2.5,20,0,0,1,1,0.53,482.9
+PROP-01063,Islamabad,G-sectors,7,1564,4,3,1,2,1,0,1,0,1.18,200.9
+PROP-01064,Lahore,Gulberg,7,1603,3,2,1.5,19,1,1,1,0,1.54,163.7
+PROP-01065,Islamabad,DHA,3,661,1,1,2,8,1,1,1,0,0.72,108
+PROP-01066,Lahore,Johar Town,10,2241,4,4,2,25,1,0,1,0,0.27,193
+PROP-01067,Lahore,DHA,10,2285,4,3,1.5,13,1,1,1,1,2.84,307.6
+PROP-01068,Lahore,Model Town,7,1596,3,3,1.5,27,1,1,1,0,0.96,130.7
+PROP-01069,Rawalpindi,Chaklala,5,1153,3,2,1,27,1,1,1,0,0.17,68
+PROP-01070,Lahore,Johar Town,5,1083,1,1,1,7,1,0,1,0,0.16,114.6
+PROP-01071,Rawalpindi,Chaklala,5,1174,1,1,1.5,15,1,1,0,0,3.89,71.1
+PROP-01072,Lahore,Johar Town,3,703,1,1,2.5,33,1,1,1,0,4.18,50.7
+PROP-01073,Karachi,North Nazimabad,10,2287,5,4,2,33,0,0,1,0,1.28,143.8
+PROP-01074,Karachi,Bahria Town,10,2252,3,2,2.5,5,1,1,0,0,1.85,286.4
+PROP-01075,Karachi,Clifton,10,2211,3,3,1,12,1,1,1,1,1.79,282.3
+PROP-01076,Lahore,DHA,3,625,1,1,1,30,1,0,1,1,3.14,61.6
+PROP-01077,Faisalabad,Jaranwala Road,10,2265,4,4,2.5,14,1,1,1,0,0.54,101.2
+PROP-01078,Faisalabad,Model Town,5,1168,1,1,1.5,27,0,0,1,0,2.77,53.1
+PROP-01079,Islamabad,DHA,5,1140,3,2,1,27,1,1,1,1,1.75,174.2
+PROP-01080,Faisalabad,Wapda Town,10,2287,3,3,1,34,1,1,0,1,1.95,101.9
+PROP-01081,Lahore,Gulberg,3,695,1,1,1,20,0,1,1,0,0.5,65.3
+PROP-01082,Rawalpindi,Chaklala,5,1087,1,1,1,11,1,0,1,0,1.09,77
+PROP-01083,Karachi,Bahria Town,3,625,2,1,1,21,0,1,1,1,1.64,65
+PROP-01084,Karachi,DHA,5,1152,2,1,1,26,1,1,1,0,0.07,125.2
+PROP-01085,Lahore,Bahria Town,3,668,1,1,2,23,1,1,1,0,3.82,64.5
+PROP-01086,Rawalpindi,Chaklala,7,1573,4,4,2,3,1,0,1,0,0.36,126.2
+PROP-01087,Karachi,Clifton,7,1620,2,1,2,27,0,1,1,0,0.35,178.4
+PROP-01088,Karachi,DHA,5,1156,1,1,1,33,0,0,1,0,3.74,93.2
+PROP-01089,Karachi,North Nazimabad,12,2680,6,6,2.5,28,1,0,1,0,0.61,176.1
+PROP-01090,Rawalpindi,DHA,3,636,1,1,2.5,5,1,1,1,1,1.18,81.9
+PROP-01091,Faisalabad,Wapda Town,10,2285,5,5,1,13,0,0,1,0,0.45,118.5
+PROP-01092,Lahore,DHA,3,627,1,1,1,14,1,1,1,0,3.71,77.2
+PROP-01093,Karachi,North Nazimabad,12,2708,6,6,2,32,1,1,1,1,1.04,231.8
+PROP-01094,Lahore,DHA,7,1535,4,4,2.5,29,1,1,1,0,1.34,157.8
+PROP-01095,Karachi,Clifton,10,2229,5,4,1,2,0,1,1,0,0.58,309.8
+PROP-01096,Lahore,Bahria Town,3,649,1,1,2,8,1,0,0,1,0.32,79.6
+PROP-01097,Lahore,DHA,5,1119,1,1,1,21,1,1,1,1,0.78,102.4
+PROP-01098,Rawalpindi,Satellite Town,5,1149,1,1,2,31,0,1,1,0,4.02,73.6
+PROP-01099,Islamabad,DHA,5,1094,3,2,2,0,1,1,1,0,0.31,186.8
+PROP-01100,Lahore,DHA,3,712,1,1,1.5,10,1,1,1,0,3.38,85.2
+PROP-01101,Islamabad,DHA,5,1148,3,2,1,4,1,0,1,0,0.54,162.8
+PROP-01102,Faisalabad,Susan Road,10,2273,3,3,2.5,1,0,0,1,0,1.09,118.5
+PROP-01103,Faisalabad,Model Town,7,1539,2,2,1,16,0,1,1,0,2.13,78
+PROP-01104,Lahore,Johar Town,12,2717,5,4,2,26,1,1,1,1,0.09,242.6
+PROP-01105,Karachi,Gulshan-e-Iqbal,12,2673,5,5,2,9,1,1,1,0,2.96,257.7
+PROP-01106,Karachi,Gulshan-e-Iqbal,12,2706,5,5,1,4,1,0,1,1,2.26,273
+PROP-01107,Lahore,Model Town,7,1577,4,4,2.5,3,1,0,1,0,1.24,166.8
+PROP-01108,Karachi,DHA,3,673,1,1,1.5,34,1,0,1,0,0.4,64.9
+PROP-01109,Lahore,DHA,7,1546,4,4,2,11,0,0,1,0,1.82,156.1
+PROP-01110,Islamabad,DHA,5,1130,1,1,2.5,34,1,1,1,0,1.76,146.7
+PROP-01111,Islamabad,Bahria Town,7,1555,4,4,2.5,8,1,1,1,0,1.07,246.1
+PROP-01112,Rawalpindi,Askari,5,1146,3,2,1,18,1,0,1,0,3.32,82.9
+PROP-01113,Karachi,North Nazimabad,10,2239,4,3,1,24,1,1,1,1,2.65,185.8
+PROP-01114,Karachi,Bahria Town,10,2200,3,2,1,16,1,1,1,0,1.65,209.1
+PROP-01115,Islamabad,F-sectors,20,4458,9,9,1,22,1,0,1,0,2.52,631.3
+PROP-01116,Lahore,DHA,3,640,1,1,1.5,15,0,0,1,0,0.41,69.4
+PROP-01117,Karachi,Clifton,5,1161,3,2,1,25,1,0,1,0,4.78,116.3
+PROP-01118,Lahore,Model Town,5,1128,3,3,2,20,1,1,1,1,2.49,108
+PROP-01119,Karachi,North Nazimabad,5,1164,3,2,1,18,1,1,1,0,1.91,95.8
+PROP-01120,Rawalpindi,Satellite Town,3,689,2,2,2,11,1,1,1,0,2.34,56
+PROP-01121,Rawalpindi,Bahria Town,5,1173,3,2,1.5,31,1,1,1,1,1.11,95.3
+PROP-01122,Islamabad,DHA,7,1573,4,4,2,4,1,0,1,0,2.53,256.4
+PROP-01123,Karachi,Gulshan-e-Iqbal,10,2247,5,4,2,24,0,0,1,0,6.16,149.9
+PROP-01124,Faisalabad,Model Town,10,2274,3,3,1,24,1,0,1,0,1.94,122.7
+PROP-01125,Islamabad,E-sectors,7,1575,2,2,2,21,1,1,1,0,0.51,195.7
+PROP-01126,Lahore,Model Town,3,636,1,1,2.5,11,1,0,0,0,0.28,65.5
+PROP-01127,Karachi,Gulshan-e-Iqbal,5,1125,1,1,1,2,1,1,1,1,4.7,116.1
+PROP-01128,Faisalabad,Jaranwala Road,5,1140,1,1,2,17,1,1,1,0,0.42,50
+PROP-01129,Faisalabad,Gulberg,12,2678,6,6,2,21,1,1,0,0,1.18,162.1
+PROP-01130,Rawalpindi,Chaklala,5,1170,1,1,2,31,1,0,0,0,0.78,65.8
+PROP-01131,Rawalpindi,Chaklala,5,1120,2,1,1,26,1,1,1,0,0.88,78.1
+PROP-01132,Faisalabad,Wapda Town,7,1549,2,1,2.5,6,1,1,1,1,4.08,109.2
+PROP-01133,Lahore,Bahria Town,5,1142,2,1,1.5,2,1,1,0,0,1.95,123.9
+PROP-01134,Karachi,North Nazimabad,5,1087,2,2,1.5,20,0,1,1,0,2.23,72.4
+PROP-01135,Islamabad,E-sectors,7,1554,2,2,1.5,6,0,0,1,0,0.65,228.4
+PROP-01136,Islamabad,DHA,12,2683,4,4,2.5,9,1,1,1,0,0.18,516.7
+PROP-01137,Karachi,Clifton,10,2257,3,2,1.5,33,1,0,1,0,0.84,234
+PROP-01138,Islamabad,DHA,5,1082,3,2,1,26,1,0,0,0,0.93,140.6
+PROP-01139,Rawalpindi,Bahria Town,3,638,1,1,2,3,1,1,1,0,1.7,67.4
+PROP-01140,Karachi,Gulshan-e-Iqbal,5,1131,1,1,1,30,1,1,1,1,1.08,92.1
+PROP-01141,Karachi,Gulshan-e-Iqbal,10,2259,3,3,1,11,1,0,1,0,1.33,197.3
+PROP-01142,Karachi,DHA,5,1114,1,1,1.5,27,1,1,1,0,1.08,112.3
+PROP-01143,Rawalpindi,Satellite Town,5,1091,1,1,1,21,1,1,1,1,1.43,74.2
+PROP-01144,Karachi,North Nazimabad,7,1561,3,2,1,14,1,1,1,0,0.6,138.7
+PROP-01145,Lahore,Bahria Town,5,1107,2,2,1.5,17,0,1,1,1,0.13,118.3
+PROP-01146,Rawalpindi,Bahria Town,12,2739,6,5,2,10,1,0,1,1,0.64,256.2
+PROP-01147,Faisalabad,Model Town,20,4468,8,8,2,4,0,0,1,0,0.34,315.6
+PROP-01148,Faisalabad,Wapda Town,5,1094,1,1,1,2,1,1,1,0,1.14,80.6
+PROP-01149,Faisalabad,Gulberg,12,2681,6,5,2,4,0,1,1,1,0.43,204.5
+PROP-01150,Karachi,Clifton,7,1558,2,2,2,6,0,0,1,0,3.05,205.6
+PROP-01151,Faisalabad,Gulberg,10,2209,4,3,1,7,1,1,1,0,2.77,150.7
+PROP-01152,Rawalpindi,Satellite Town,5,1144,2,2,2,22,1,0,0,0,1.26,60.9
+PROP-01153,Faisalabad,Susan Road,7,1619,2,1,1,13,1,1,1,1,5.73,89.5
+PROP-01154,Faisalabad,Gulberg,12,2686,4,4,2,34,1,1,1,0,1.11,160.4
+PROP-01155,Karachi,DHA,5,1137,3,2,1,3,1,0,1,0,3.61,141.7
+PROP-01156,Rawalpindi,Askari,3,701,1,1,2,31,1,1,1,0,1,44.8
+PROP-01157,Lahore,Model Town,5,1102,2,2,1,3,0,0,1,0,0.49,100.2
+PROP-01158,Islamabad,F-sectors,10,2248,4,3,2,6,1,1,1,1,0.81,356.7
+PROP-01159,Lahore,Gulberg,5,1091,3,2,1.5,32,1,1,1,0,1.35,100.1
+PROP-01160,Rawalpindi,Bahria Town,12,2703,4,4,1,27,0,1,1,0,0.2,208.9
+PROP-01161,Islamabad,DHA,12,2698,6,5,1,22,1,0,1,1,2.01,367.2
+PROP-01162,Faisalabad,Jaranwala Road,3,649,1,1,2,8,1,1,0,0,3.05,33.9
+PROP-01163,Lahore,DHA,7,1580,2,1,1,15,1,0,1,0,3.77,162.5
+PROP-01164,Lahore,Bahria Town,5,1107,2,1,2,19,0,1,1,1,0.59,113.1
+PROP-01165,Lahore,DHA,5,1135,1,1,2,6,1,1,1,0,4.12,138.1
+PROP-01166,Lahore,DHA,12,2727,5,4,1,29,1,1,1,0,0.66,247.9
+PROP-01167,Lahore,DHA,20,4465,8,7,2.5,16,1,1,1,0,0.81,613.7
+PROP-01168,Karachi,Bahria Town,3,700,1,1,2,14,1,1,1,1,1.05,79.4
+PROP-01169,Islamabad,G-sectors,7,1589,4,4,2,7,0,0,1,0,1.18,217.2
+PROP-01170,Lahore,Model Town,7,1554,4,3,2,11,1,0,1,0,1.23,156.3
+PROP-01171,Karachi,North Nazimabad,5,1120,1,1,2.5,34,1,0,1,1,0.25,97.8
+PROP-01172,Karachi,Gulshan-e-Iqbal,7,1581,2,2,2,18,0,1,0,1,0.05,137.1
+PROP-01173,Rawalpindi,Bahria Town,5,1115,2,2,1.5,30,1,0,0,0,3.2,78.6
+PROP-01174,Karachi,DHA,5,1085,3,3,2.5,32,1,1,1,0,3.05,136.8
+PROP-01175,Karachi,Gulshan-e-Iqbal,10,2241,3,3,2,20,1,0,1,0,2.18,200.4
+PROP-01176,Lahore,Gulberg,7,1592,4,3,2,1,0,1,1,0,0.14,199.7
+PROP-01177,Lahore,Bahria Town,10,2232,4,4,1,32,1,1,0,0,1.72,180.8
+PROP-01178,Lahore,Bahria Town,3,661,1,1,2,7,0,1,1,1,0.16,73.9
+PROP-01179,Lahore,Bahria Town,7,1542,4,4,1,25,1,1,1,0,0.54,142.4
+PROP-01180,Lahore,Bahria Town,10,2289,5,5,1,27,1,1,1,0,0.11,209.6
+PROP-01181,Karachi,Clifton,5,1134,2,2,2.5,9,1,0,1,0,0.05,138.4
+PROP-01182,Lahore,Bahria Town,20,4482,9,9,2.5,13,1,1,1,0,1.63,524.6
+PROP-01183,Karachi,Gulshan-e-Iqbal,10,2260,5,5,2.5,26,0,1,0,0,0.09,180.3
+PROP-01184,Islamabad,E-sectors,5,1150,1,1,1.5,16,0,1,1,0,0.87,135.9
+PROP-01185,Karachi,Clifton,3,723,1,1,1,3,1,1,1,0,9.52,92.1
+PROP-01186,Faisalabad,Model Town,5,1122,1,1,2,31,0,0,1,0,1.08,54.3
+PROP-01187,Islamabad,E-sectors,10,2200,5,5,2.5,29,1,0,1,0,3.33,287.2
+PROP-01188,Lahore,Johar Town,3,655,1,1,1,8,0,1,1,1,0.19,57.4
+PROP-01189,Karachi,DHA,3,677,1,1,1,9,0,0,1,1,3.01,75.9
+PROP-01190,Rawalpindi,Satellite Town,5,1117,3,3,1.5,19,1,1,1,1,2.36,80
+PROP-01191,Faisalabad,Susan Road,7,1557,4,4,1,4,0,1,1,0,0.48,72.6
+PROP-01192,Rawalpindi,Chaklala,20,4547,9,9,1,8,0,1,1,1,1.59,328
+PROP-01193,Faisalabad,Wapda Town,5,1104,2,1,2,29,0,0,1,1,0.67,56.3
+PROP-01194,Karachi,North Nazimabad,5,1084,1,1,2,28,1,1,1,0,2.03,73.7
+PROP-01195,Faisalabad,Wapda Town,20,4450,7,6,1.5,0,1,1,1,0,3.46,271.7
+PROP-01196,Faisalabad,Jaranwala Road,5,1139,1,1,1,28,1,0,1,0,0.61,49.6
+PROP-01197,Lahore,Gulberg,5,1078,1,1,1,32,1,1,1,0,1.66,96.1
+PROP-01198,Faisalabad,Jaranwala Road,7,1536,2,1,1.5,33,0,1,1,0,0.94,57.8
+PROP-01199,Rawalpindi,Bahria Town,5,1167,3,2,1.5,34,0,0,1,0,2.69,65.5
+PROP-01200,Islamabad,F-sectors,3,637,1,1,2,29,1,1,1,0,0.76,89.6

@@ -1,0 +1,37 @@
+{
+    "Faisalabad": [
+        "Gulberg",
+        "Jaranwala Road",
+        "Model Town",
+        "Susan Road",
+        "Wapda Town"
+    ],
+    "Islamabad": [
+        "Bahria Town",
+        "DHA",
+        "E-sectors",
+        "F-sectors",
+        "G-sectors"
+    ],
+    "Karachi": [
+        "Bahria Town",
+        "Clifton",
+        "DHA",
+        "Gulshan-e-Iqbal",
+        "North Nazimabad"
+    ],
+    "Lahore": [
+        "Bahria Town",
+        "DHA",
+        "Gulberg",
+        "Johar Town",
+        "Model Town"
+    ],
+    "Rawalpindi": [
+        "Askari",
+        "Bahria Town",
+        "Chaklala",
+        "DHA",
+        "Satellite Town"
+    ]
+}
