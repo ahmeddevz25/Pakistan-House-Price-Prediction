@@ -169,6 +169,86 @@ st.markdown("""
         transform: translateY(-1px);
         color: #ffffff;
     }
+
+    /* ======================================================== */
+    /* ENHANCED SIDEBAR NAVIGATION & TYPOGRAPHY                */
+    /* ======================================================== */
+    [data-testid="stSidebar"] {
+        background-color: #f8fafc;
+        border-right: 1px solid #e2e8f0;
+    }
+    
+    .sidebar-title {
+        font-family: 'Outfit', sans-serif;
+        font-size: 1.65rem;
+        font-weight: 800;
+        color: #0f5132;
+        margin-bottom: 2px;
+        letter-spacing: -0.3px;
+    }
+    .sidebar-subtitle {
+        font-size: 0.92rem;
+        font-weight: 600;
+        color: #64748b;
+        margin-bottom: 0.4rem;
+    }
+    .sidebar-heading {
+        font-family: 'Outfit', sans-serif;
+        font-size: 1.15rem;
+        font-weight: 800;
+        color: #0f5132;
+        margin-top: 0.4rem;
+        margin-bottom: 0.7rem;
+        letter-spacing: -0.2px;
+    }
+
+    /* Make Navigation Radio Options Larger, Bolder & Card-styled */
+    [data-testid="stSidebar"] [data-testid="stRadio"] div[role="radiogroup"] {
+        gap: 6px;
+    }
+    [data-testid="stSidebar"] [data-testid="stRadio"] div[role="radiogroup"] > label {
+        padding: 9px 12px !important;
+        border-radius: 10px !important;
+        background-color: #ffffff !important;
+        border: 1px solid #e2e8f0 !important;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.02) !important;
+        margin-bottom: 3px !important;
+        transition: all 0.18s ease-in-out !important;
+        cursor: pointer !important;
+        width: 100% !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stRadio"] div[role="radiogroup"] > label:hover {
+        background-color: #ecfdf5 !important;
+        border-color: #10b981 !important;
+        transform: translateX(4px) !important;
+        box-shadow: 0 3px 8px rgba(16, 185, 129, 0.12) !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stRadio"] div[role="radiogroup"] > label p {
+        font-size: 1.06rem !important;
+        font-weight: 700 !important;
+        color: #1e293b !important;
+        line-height: 1.4 !important;
+        margin: 0 !important;
+    }
+
+    /* Enlarge radio circle indicator */
+    [data-testid="stSidebar"] [data-testid="stRadio"] div[role="radiogroup"] > label > div:first-child {
+        transform: scale(1.22) !important;
+        margin-right: 4px !important;
+    }
+
+    /* Sidebar Metrics Styling */
+    [data-testid="stSidebar"] [data-testid="stMetricLabel"] p {
+        font-size: 0.92rem !important;
+        font-weight: 700 !important;
+        color: #475569 !important;
+    }
+    [data-testid="stSidebar"] [data-testid="stMetricValue"] {
+        font-family: 'Outfit', sans-serif !important;
+        font-size: 1.4rem !important;
+        font-weight: 800 !important;
+        color: #0f5132 !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -290,15 +370,15 @@ def get_fast_comparables(data, city, target_marla, limit=4):
 # ==============================================================================
 with st.sidebar:
     st.markdown("""
-    <div style='text-align: center; padding: 0.3rem 0;'>
-        <div style='font-size: 2.6rem;'>🏡</div>
-        <h2 style='font-family: Outfit; color: #0f5132; margin-bottom: 0px; font-weight: 800;'>PakRealEstate AI</h2>
-        <p style='color: #64748b; font-size: 0.82rem; font-weight: 500;'>Pakistan House Price Estimator</p>
+    <div style='text-align: center; padding: 0.5rem 0 0.2rem 0;'>
+        <div style='font-size: 3rem;'>🏡</div>
+        <div class='sidebar-title'>PakRealEstate AI</div>
+        <div class='sidebar-subtitle'>Pakistan House Price Estimator</div>
     </div>
     """, unsafe_allow_html=True)
     st.divider()
 
-    st.markdown("### Go to page")
+    st.markdown("<div class='sidebar-heading'>📌 Go to page</div>", unsafe_allow_html=True)
     page = st.radio(
         "Navigation",
         options=[
@@ -315,7 +395,7 @@ with st.sidebar:
     )
 
     st.divider()
-    st.markdown("### ⚙️ Valuation Currency")
+    st.markdown("<div class='sidebar-heading'>⚙️ Valuation Currency</div>", unsafe_allow_html=True)
     currency_pref = st.radio(
         "Currency Display",
         options=["PKR (Lakhs & Crores)", "USD ($)"],
@@ -325,17 +405,17 @@ with st.sidebar:
     usd_rate = 280.0
 
     st.divider()
-    st.markdown("### ⚡ Engine Benchmarks")
+    st.markdown("<div class='sidebar-heading'>⚡ Engine Benchmarks</div>", unsafe_allow_html=True)
     st.metric(label="Model R² Score", value=f"{rf_metrics['test_r2']*100:.2f}%")
     st.metric(label="Test MAE Margin", value=f"±{rf_metrics['test_mae']} L")
     st.metric(label="Pipeline Size", value="1.2 MB (Compressed)")
 
     st.divider()
     st.markdown("""
-    <div style='font-size: 0.72rem; color: #94a3b8; text-align: center; line-height: 1.4;'>
+    <div style='font-size: 0.85rem; color: #64748b; text-align: center; line-height: 1.5; padding-bottom: 0.5rem;'>
         Optimized Random Forest Pipeline<br>
         <b>120 Trees (Depth 14)</b><br>
-        Developed by <b>Ahmed</b>
+        Developed by <b style='color: #0f5132;'>Ahmed</b>
     </div>
     """, unsafe_allow_html=True)
 
